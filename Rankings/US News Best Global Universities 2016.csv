@@ -1,0 +1,750 @@
+RANK,UNIVERSITY,COUNTRY,LOCATION,GLOBAL_SCORE,DETAIL_URL,HOMEPAGE,ENROLLMENT,REGION
+1,Harvard University,United States,"Cambridge, MA",100,http://www.usnews.com/education/best-global-universities/harvard-university-166027,http://www.harvard.edu/,20152,North America
+2,Massachusetts Institute of Technology,United States,"Cambridge, MA",94.3,http://www.usnews.com/education/best-global-universities/massachusetts-institute-of-technology-166683,http://web.mit.edu/,11074,North America
+3,University of California--Berkeley,United States,"Berkeley, CA",92.2,http://www.usnews.com/education/best-global-universities/university-of-california-berkeley-110635,http://berkeley.edu/,36186,North America
+4,Stanford University,United States,"Stanford, CA",89,http://www.usnews.com/education/best-global-universities/stanford-university-243744,http://www.stanford.edu,15596,North America
+5,University of Oxford,United Kingdom,Oxford,86.7,http://www.usnews.com/education/best-global-universities/university-of-oxford-503637,http://www.ox.ac.uk/,19919,Europe
+6,University of Cambridge,United Kingdom,Cambridge,86.2,http://www.usnews.com/education/best-global-universities/university-of-cambridge-502149,http://www.cam.ac.uk/,18812,Europe
+7,California Institute of Technology,United States,"Pasadena, CA",85.1,http://www.usnews.com/education/best-global-universities/california-institute-of-technology-110404,http://www.caltech.edu,2243,North America
+8,University of California--Los Angeles,United States,"Los Angeles, CA",84.5,http://www.usnews.com/education/best-global-universities/university-of-california-los-angeles-110662,http://www.ucla.edu/,38206,North America
+9,Columbia University,United States,"New York, NY",83.3,http://www.usnews.com/education/best-global-universities/columbia-university-190150,http://www.columbia.edu,25055,North America
+10,University of Chicago,United States,"Chicago, IL",82.9,http://www.usnews.com/education/best-global-universities/university-of-chicago-144050,http://www.uchicago.edu,14221,North America
+11,University of Washington,United States,"Seattle, WA",81.7,http://www.usnews.com/education/best-global-universities/university-of-washington-236948,http://www.washington.edu,44020,North America
+12,Johns Hopkins University,United States,"Baltimore, MD",81.5,http://www.usnews.com/education/best-global-universities/johns-hopkins-university-162928,http://www.jhu.edu,15128,North America
+13,Princeton University,United States,"Princeton, NJ",81.4,http://www.usnews.com/education/best-global-universities/princeton-university-186131,http://www.princeton.edu,7929,North America
+14,University of Pennsylvania,United States,"Philadelphia, PA",81.2,http://www.usnews.com/education/best-global-universities/university-of-pennsylvania-215062,http://www.upenn.edu,20376,North America
+14,Yale University,United States,"New Haven, CT",81.2,http://www.usnews.com/education/best-global-universities/yale-university-130794,http://www.yale.edu/,11751,North America
+16,University of Toronto,Canada,"Toronto, Ontario",81.1,http://www.usnews.com/education/best-global-universities/university-of-toronto-499968,http://www.utoronto.ca,66198,North America
+17,University of Michigan--Ann Arbor,United States,"Ann Arbor, MI",80.7,http://www.usnews.com/education/best-global-universities/university-of-michigan-170976,http://www.umich.edu,41786,North America
+18,Imperial College London,United Kingdom,London,80.4,http://www.usnews.com/education/best-global-universities/imperial-college-london-505571,http://www.imperial.ac.uk,15060,Europe
+19,University of California--San Diego,United States,"La Jolla, CA",80.2,http://www.usnews.com/education/best-global-universities/university-of-california-san-diego-110680,http://www.ucsd.edu/,27233,North America
+20,Duke University,United States,"Durham, NC",79.2,http://www.usnews.com/education/best-global-universities/duke-university-198419,http://www.duke.edu/,15172,North America
+21,Cornell University,United States,"Ithaca, NY",78.9,http://www.usnews.com/education/best-global-universities/cornell-university-190415,http://www.cornell.edu,21424,North America
+22,University College London,United Kingdom,London,78.4,http://www.usnews.com/education/best-global-universities/university-college-london-501693,http://www.ucl.ac.uk/,26607,Europe
+23,University of California--San Francisco,United States,"San Francisco, CA",78.2,http://www.usnews.com/education/best-global-universities/university-of-california-san-francisco-110699,http://www.ucsf.edu/,3137,North America
+24,University of California--Santa Barbara,United States,"Santa Barbara, CA",77.8,http://www.usnews.com/education/best-global-universities/university-of-california-santa-barbara-110705,http://www.ucsb.edu,22020,North America
+25,Northwestern University,United States,"Evanston, IL",77.3,http://www.usnews.com/education/best-global-universities/northwestern-university-147767,http://www.northwestern.edu,18334,North America
+26,University of Wisconsin--Madison,United States,"Madison, WI",76,http://www.usnews.com/education/best-global-universities/university-of-wisconsin-madison-240444,http://www.wisc.edu,39655,North America
+27,Swiss Federal Institute of Technology Zurich,Switzerland,Zurich,75.9,http://www.usnews.com/education/best-global-universities/swiss-federal-institute-of-technology-zurich-502241,https://www.ethz.ch/en.html,,Europe
+27,University of North Carolina--Chapel Hill,United States,"Chapel Hill, NC",75.9,http://www.usnews.com/education/best-global-universities/university-of-north-carolina-chapel-hill-199120,http://www.unc.edu,26518,North America
+29,University of Minnesota--Twin Cities,United States,"Minneapolis, MN",75.8,http://www.usnews.com/education/best-global-universities/university-of-minnesota-twin-cities-174066,http://twin-cities.umn.edu/,46825,North America
+30,University of Texas--Austin,United States,"Austin, TX",75.7,http://www.usnews.com/education/best-global-universities/university-of-texas-austin-228778,http://www.utexas.edu,49428,North America
+31,University of Tokyo,Japan,"Bunkyo-ku, Tokyo",75.2,http://www.usnews.com/education/best-global-universities/university-of-tokyo-500248,http://www.u-tokyo.ac.jp/en/,26199,Asia and Pacific
+32,Boston University,United States,"Boston, MA",74.7,http://www.usnews.com/education/best-global-universities/boston-university-164988,http://www.bu.edu,24789,North America
+33,University of British Columbia,Canada,"Vancouver, British Columbia",74.4,http://www.usnews.com/education/best-global-universities/university-of-british-columbia-499976,http://you.ubc.ca/,50131,North America
+34,New York University,United States,"New York, NY",74.1,http://www.usnews.com/education/best-global-universities/new-york-university-193900,http://www.nyu.edu,42056,North America
+34,Ohio State University--Columbus,United States,"Columbus, OH",74.1,http://www.usnews.com/education/best-global-universities/ohio-state-university-204796,http://www.osu.edu,51462,North America
+34,Washington University in St. Louis,United States,"St. Louis, MO",74.1,http://www.usnews.com/education/best-global-universities/washington-university-in-st-louis-179867,http://www.wustl.edu,12528,North America
+37,Heidelberg University,Germany,Heidelberg,73.8,http://www.usnews.com/education/best-global-universities/ruprecht-karl-university-of-heidelberg-506277,http://www.uni-heidelberg.de/index_e.html ,28881,Europe
+37,University of Edinburgh,United Kingdom,"Edinburgh, Scotland",73.8,http://www.usnews.com/education/best-global-universities/university-of-edinburgh-505832,http://www.ed.ac.uk/home,25774,Europe
+39,University of California--Davis,United States,"Davis, CA",73.7,http://www.usnews.com/education/best-global-universities/university-of-california-davis-110644,http://www.ucdavis.edu,35364,North America
+40,University of Melbourne,Australia,"Parkville, Victoria",73.5,http://www.usnews.com/education/best-global-universities/university-of-melbourne-501796,http://www.unimelb.edu.au/ ,40128,Asia and Pacific
+41,Peking University,China,Beijing,73.4,http://www.usnews.com/education/best-global-universities/peking-university-501148,http://english.pku.edu.cn/ ,40148,Asia and Pacific
+41,University of Maryland--College Park,United States,"College Park, MD",73.4,http://www.usnews.com/education/best-global-universities/university-of-maryland-college-park-163286,http://www.maryland.edu,31331,North America
+43,University of Illinois--Urbana-Champaign,United States,"Champaign, IL",73,http://www.usnews.com/education/best-global-universities/university-of-illinois-urbana-champaign-145637,http://www.illinois.edu,42727,North America
+44,KU Leuven,Belgium,Leuven,72.9,http://www.usnews.com/education/best-global-universities/ku-leuven-504785,http://www.kuleuven.be/english ,42503,Europe
+44,University of Southern California,United States,"Los Angeles, CA",72.9,http://www.usnews.com/education/best-global-universities/university-of-southern-california-123961,http://www.usc.edu/,36534,North America
+46,University of Colorado--Boulder,United States,"Boulder, CO",72.7,http://www.usnews.com/education/best-global-universities/university-of-colorado-boulder-126614,http://www.colorado.edu,29325,North America
+47,University of Pittsburgh,United States,"Pittsburgh, PA",72.4,http://www.usnews.com/education/best-global-universities/university-of-pittsburgh-215293,http://www.pitt.edu/,26485,North America
+48,University of California--Santa Cruz,United States,"Santa Cruz, CA",72.2,http://www.usnews.com/education/best-global-universities/university-of-california-santa-cruz-110714,http://www.ucsc.edu,17404,North America
+49,National University of Singapore,Singapore,,72,http://www.usnews.com/education/best-global-universities/national-university-of-singapore-505009,http://www.nus.edu.sg/,31592,Asia and Pacific
+49,Pierre and Marie Curie University - Paris 6,France,Paris,72,http://www.usnews.com/education/best-global-universities/pierre-and-marie-curie-university-paris-6-503435,http://www.upmc.fr/en/ ,27862,Europe
+51,University of Sydney,Australia,"Sydney, New South Wales",71.9,http://www.usnews.com/education/best-global-universities/university-of-sydney-505369,http://sydney.edu.au/ ,41868,Asia and Pacific
+52,University of Queensland Australia,Australia,"Brisbane, Queensland",71.8,http://www.usnews.com/education/best-global-universities/university-of-queensland-australia-500164,http://www.uq.edu.au/ ,34718,Asia and Pacific
+53,McGill University,Canada,"Montreal, Quebec",71.6,http://www.usnews.com/education/best-global-universities/mcgill-university-499986,http://www.mcgill.ca/,31326,North America
+53,University of Florida,United States,"Gainesville, FL",71.6,http://www.usnews.com/education/best-global-universities/university-of-florida-134130,http://www.ufl.edu,50095,North America
+53,University of Munich,Germany,Munich,71.6,http://www.usnews.com/education/best-global-universities/university-of-munich-500951,http://www.en.uni-muenchen.de/index.html ,35691,Europe
+56,University of Manchester,United Kingdom,Manchester,71.2,http://www.usnews.com/education/best-global-universities/university-of-manchester-500273,http://www.manchester.ac.uk/,34938,Europe
+57,Pennsylvania State University--University Park,United States,"University Park, PA",71,http://www.usnews.com/education/best-global-universities/pennsylvania-state-university-214777,http://www.psu.edu,44501,North America
+58,Ecole Polytechnique Federale de Lausanne,Switzerland,Lausanne,70.7,http://www.usnews.com/education/best-global-universities/ecole-polytechnique-federale-de-lausanne-501629,http://www.epfl.ch/,9666,Europe
+59,Tsinghua University,China,Beijing,70.4,http://www.usnews.com/education/best-global-universities/tsinghua-university-503146,http://www.tsinghua.edu.cn/publish/newthuen/ ,39763,Asia and Pacific
+60,"Rutgers, The State University of New Jersey--New Brunswick",United States,"Piscataway Township, NJ",70.2,http://www.usnews.com/education/best-global-universities/rutgers-state-university-186380,http://www.rutgers.edu,37032,North America
+61,King&#x27;s College London,United Kingdom,London,70.1,http://www.usnews.com/education/best-global-universities/kings-college-london-500330,http://www.kcl.ac.uk/index.aspx,21394,Europe
+61,University of California--Irvine,United States,"Irvine, CA",70.1,http://www.usnews.com/education/best-global-universities/university-of-california-irvine-110653,http://www.uci.edu,26614,North America
+61,University of Copenhagen,Denmark,Copenhagen,70.1,http://www.usnews.com/education/best-global-universities/university-of-copenhagen-503710,http://www.ku.dk/english/ ,27545,Europe
+64,Georgia Institute of Technology,United States,"Atlanta, GA",70,http://www.usnews.com/education/best-global-universities/georgia-institute-of-technology-139755,http://www.gatech.edu/,19967,North America
+64,Technical University of Munich,Germany,Munich,70,http://www.usnews.com/education/best-global-universities/technical-university-of-munich-503109,http://www.tum.de/en/homepage/ ,35565,Europe
+64,University of Hong Kong,Hong Kong,"Pok Fu Lam, Hong Kong",70,http://www.usnews.com/education/best-global-universities/university-of-hong-kong-505046,http://www.hku.hk/ ,,Asia and Pacific
+67,University of Arizona,United States,"Tucson, AZ",69.8,http://www.usnews.com/education/best-global-universities/university-of-arizona-104179,http://www.arizona.edu,36429,North America
+68,Humboldt-Universität zu Berlin,Germany,Berlin,69.3,http://www.usnews.com/education/best-global-universities/humboldt-university-of-berlin-506698,http://www.hu-berlin.de/en,29987,Europe
+69,Utrecht University,Netherlands,Utrecht,69.1,http://www.usnews.com/education/best-global-universities/utrecht-university-505962,http://www.uu.nl/en,30779,Europe
+70,Emory University,United States,"Atlanta, GA",68.6,http://www.usnews.com/education/best-global-universities/emory-university-139658,http://www.emory.edu,12338,North America
+71,Carnegie Mellon University,United States,"Pittsburgh, PA",68.3,http://www.usnews.com/education/best-global-universities/carnegie-mellon-university-211440,http://www.cmu.edu,11885,North America
+72,Karolinska Institute,Sweden,Stockholm,68.2,http://www.usnews.com/education/best-global-universities/karolinska-institute-503151,http://ki.se/en/startpage,7774,Europe
+72,Purdue University--West Lafayette,United States,"West Lafayette, IN",68.2,http://www.usnews.com/education/best-global-universities/purdue-university-243780,http://www.purdue.edu,39256,North America
+74,Nanyang Technological University,Singapore,,68.1,http://www.usnews.com/education/best-global-universities/nanyang-technological-university-503366,http://www.ntu.edu.sg/Pages/home.aspx,25028,Asia and Pacific
+74,University of Bristol,United Kingdom,Bristol,68.1,http://www.usnews.com/education/best-global-universities/university-of-bristol-505342,http://www.bris.ac.uk/,17906,Europe
+74,Vanderbilt University,United States,"Nashville, TN",68.1,http://www.usnews.com/education/best-global-universities/vanderbilt-university-221999,http://www.vanderbilt.edu,12161,North America
+77,Leiden University,Netherlands,Leiden,68,http://www.usnews.com/education/best-global-universities/leiden-university-503069,http://www.leiden.edu/,21222,Europe
+77,University of Zurich,Switzerland,Zurich,68,http://www.usnews.com/education/best-global-universities/university-of-zurich-505287,http://www.uzh.ch/index_en.html,26583,Europe
+79,University of Amsterdam,Netherlands,Amsterdam,67.8,http://www.usnews.com/education/best-global-universities/university-of-amsterdam-502957,http://www.uva.nl/en/home,,Europe
+80,Australian National University,Australia,"Canberra, Australian Capital Territory",67.5,http://www.usnews.com/education/best-global-universities/australian-national-university-503825,http://www.anu.edu.au/,14604,Asia and Pacific
+80,Free University of Berlin,Germany,Berlin,67.5,http://www.usnews.com/education/best-global-universities/free-university-of-berlin-502084,http://www.fu-berlin.de/en/ ,33062,Europe
+82,Erasmus University Rotterdam,Netherlands,Rotterdam,67.4,http://www.usnews.com/education/best-global-universities/erasmus-university-rotterdam-500349,http://www.eur.nl/english/,20580,Europe
+82,Michigan State University,United States,"East Lansing, MI",67.4,http://www.usnews.com/education/best-global-universities/michigan-state-university-171100,http://www.msu.edu/,44750,North America
+84,Monash University,Australia,"Clayton, Victoria",67.3,http://www.usnews.com/education/best-global-universities/monash-university-500301,http://www.monash.edu.au/ ,50882,Asia and Pacific
+84,Rice University,United States,"Houston, TX",67.3,http://www.usnews.com/education/best-global-universities/rice-university-227757,http://www.rice.edu,6333,North America
+86,Kyoto University,Japan,"Sakyo-ku, Kyoto, Kyoto",67.1,http://www.usnews.com/education/best-global-universities/kyoto-university-505388,http://www.kyoto-u.ac.jp/en,22809,Asia and Pacific
+87,Rockefeller University,United States,"New York, NY",67,http://www.usnews.com/education/best-global-universities/rockefeller-university-195049,http://www.rockefeller.edu/,192,North America
+88,Texas A&M University--College Station,United States,"College Station, TX",66.9,http://www.usnews.com/education/best-global-universities/texas-a%2Bm-university-college-station-228723,http://www.tamu.edu,50657,North America
+88,Universitie Paris-Sud,France,Orsay,66.9,http://www.usnews.com/education/best-global-universities/universite-paris-sud-502000,http://www.u-psud.fr/en/index.html ,,Europe
+90,Tufts University,United States,"Medford, MA",66.8,http://www.usnews.com/education/best-global-universities/tufts-university-168148,http://www.tufts.edu,10410,North America
+90,University of Barcelona,Spain,Barcelona,66.8,http://www.usnews.com/education/best-global-universities/university-of-barcelona-500261,http://www.ub.edu/web/ub/en/,47491,Europe
+90,University of New South Wales,Australia,"Kensington, New South Wales",66.8,http://www.usnews.com/education/best-global-universities/university-of-new-south-wales-502434,http://www.unsw.edu.au/ ,38308,Asia and Pacific
+93,University of Groningen,Netherlands,Groningen,66.6,http://www.usnews.com/education/best-global-universities/university-of-groningen-500967,http://www.rug.nl/?lang=en,24556,Europe
+94,Mayo Clinic,United States,"Rochester, MN",66.4,http://www.usnews.com/education/best-global-universities/mayo-clinic-173957,http://www.mayoclinic.org/,,North America
+94,University of Virginia,United States,"Charlottesville, VA",66.4,http://www.usnews.com/education/best-global-universities/university-of-virginia-234076,http://www.virginia.edu,22079,North America
+96,Fudan University,China,Shanghai,66.3,http://www.usnews.com/education/best-global-universities/fudan-university-500824,http://www.fudan.edu.cn/en/,32175,Asia and Pacific
+97,Ghent University,Belgium,Gent,66.1,http://www.usnews.com/education/best-global-universities/ghent-university-506883,https://www.ugent.be/en ,37496,Europe
+97,Lund University,Sweden,Lund,66.1,http://www.usnews.com/education/best-global-universities/lund-university-500083,http://www.lunduniversity.lu.se/,28251,Europe
+99,Brown University,United States,"Providence, RI",66,http://www.usnews.com/education/best-global-universities/brown-university-217156,http://www.brown.edu,8653,North America
+99,University of Freiburg,Germany,Freiburg,66,http://www.usnews.com/education/best-global-universities/university-of-freiburg-503940,http://www.uni-freiburg.de/start-en.html?set_language=en ,26467,Europe
+101,University of Helsinki,Finland,Helsinki,65.8,http://www.usnews.com/education/best-global-universities/university-of-helsinki-501989,https://www.helsinki.fi/en,23505,Europe
+102,University of Glasgow,United Kingdom,"Glasgow, Scotland",65.6,http://www.usnews.com/education/best-global-universities/university-of-glasgow-500110,http://www.gla.ac.uk/,22616,Europe
+102,VU University Amsterdam,Netherlands,Amsterdam,65.6,http://www.usnews.com/education/best-global-universities/vu-university-amsterdam-500669,http://www.vu.nl/en/,23280,Europe
+104,University of Geneva,Switzerland,Geneva,65.5,http://www.usnews.com/education/best-global-universities/university-of-geneva-504635,http://www.unige.ch/international/index_en.html,15668,Europe
+105,Seoul National University,South Korea,Seoul,65.4,http://www.usnews.com/education/best-global-universities/seoul-national-university-503456,http://www.useoul.edu/,,Asia and Pacific
+106,University of Alberta,Canada,"Edmonton, Alberta",65.1,http://www.usnews.com/education/best-global-universities/university-of-alberta-499977,http://www.ualberta.ca/,36299,North America
+106,University of Massachusetts--Amherst,United States,"Amherst, MA",65.1,http://www.usnews.com/education/best-global-universities/university-of-massachusetts-amherst-166629,http://www.umass.edu,,North America
+106,Zhejiang University,China,"Hangzhou, Zhejiang",65.1,http://www.usnews.com/education/best-global-universities/zhejiang-university-504773,http://www.zju.edu.cn/english/ ,47508,Asia and Pacific
+109,Indiana University--Bloomington,United States,"Bloomington, IN",64.9,http://www.usnews.com/education/best-global-universities/indiana-university-bloomington-151351,http://www.iub.edu,,North America
+109,Universite Paris Diderot - Paris 7,France,Paris,64.9,http://www.usnews.com/education/best-global-universities/universite-paris-diderot-paris-7-504258,http://www.univ-paris-diderot.fr/ ,27756,Europe
+109,Wageningen University and Research Center,Netherlands,Wageningen,64.9,http://www.usnews.com/education/best-global-universities/wageningen-university-and-research-center-501112,http://www.wageningenur.nl/en.htm,9248,Europe
+112,University of California--Riverside,United States,"Riverside, CA",64.8,http://www.usnews.com/education/best-global-universities/university-of-california-riverside-110671,http://www.ucr.edu,20626,North America
+113,Universitie de Strasbourg,France,Strasbourg,64.7,http://www.usnews.com/education/best-global-universities/universite-de-strasbourg-501292,http://www.unistra.fr/,,Europe
+114,London School of Hygiene &amp; Tropical Medicine,United Kingdom,London,64.6,http://www.usnews.com/education/best-global-universities/london-school-of-hygiene-tropical-medicine-503353,http://www.lshtm.ac.uk/,765,Europe
+114,University of Montreal,Canada,"Montreal, Quebec",64.6,http://www.usnews.com/education/best-global-universities/university-of-montreal-506159,http://www.umontreal.ca/english/ ,38264,North America
+114,University of Southampton,United Kingdom,Southampton,64.6,http://www.usnews.com/education/best-global-universities/university-of-southampton-504892,http://www.southampton.ac.uk/,20925,Europe
+117,Universidade de Sao Paulo,Brazil,Sao Paulo,64.5,http://www.usnews.com/education/best-global-universities/universidade-de-sao-paulo-500437,http://www5.usp.br/en/ ,,South/Latin America
+118,Uppsala University,Sweden,Uppsala,64.4,http://www.usnews.com/education/best-global-universities/uppsala-university-501990,http://www.uu.se/en,25266,Europe
+119,Chinese University of Hong Kong,Hong Kong,"Shatin, New Territories",64.2,http://www.usnews.com/education/best-global-universities/chinese-university-of-hong-kong-502973,http://www.cuhk.edu.hk/english/index.html ,1761,Asia and Pacific
+119,Joseph Fourier University - Grenoble 1,France,Saint-Martin-d'Heres,64.2,http://www.usnews.com/education/best-global-universities/joseph-fourier-university-grenoble-1-500819,https://www.ujf-grenoble.fr/?language=en,16130,Europe
+121,University of Leeds,United Kingdom,Leeds,64,http://www.usnews.com/education/best-global-universities/university-of-leeds-505265,http://www.leeds.ac.uk/,27703,Europe
+122,Radboud University Nijmegen,Netherlands,Nijmegen,63.9,http://www.usnews.com/education/best-global-universities/radboud-university-nijmegen-501519,http://www.ru.nl/english/,18835,Europe
+122,University of Birmingham,United Kingdom,Birmingham,63.9,http://www.usnews.com/education/best-global-universities/university-of-birmingham-501524,http://www.birmingham.ac.uk/index.aspx,25295,Europe
+122,University of Hamburg,Germany,Hamburg,63.9,http://www.usnews.com/education/best-global-universities/university-of-hamburg-501079,http://www.uni-hamburg.de/index_e.html ,,Europe
+122,University of Rochester,United States,"Rochester, NY",63.9,http://www.usnews.com/education/best-global-universities/university-of-rochester-195030,http://www.rochester.edu,9390,North America
+126,Weizmann Institute of Science,Israel,Rehovot,63.8,http://www.usnews.com/education/best-global-universities/weizmann-institute-of-science-506795,http://www.weizmann.ac.il/ ,1083,Europe
+127,Aarhus University,Denmark,Aarhus C,63.7,http://www.usnews.com/education/best-global-universities/aarhus-university-502125,http://www.au.dk/en/ ,23895,Europe
+128,National Taiwan University,Taiwan,Taipei,63.5,http://www.usnews.com/education/best-global-universities/national-taiwan-university-504077,http://www.ntu.edu.tw/english/index.html,31891,Asia and Pacific
+128,University of Iowa,United States,"Iowa City, IA",63.5,http://www.usnews.com/education/best-global-universities/university-of-iowa-153658,http://www.uiowa.edu,27526,North America
+128,University of Western Australia,Australia,"Crawley, Western Australia",63.5,http://www.usnews.com/education/best-global-universities/university-of-western-australia-503979,http://www.uwa.edu.au/ ,20851,Asia and Pacific
+131,University of Science and Technology of China,China,"Hefei, Anhui",63.4,http://www.usnews.com/education/best-global-universities/university-of-science-and-technology-of-china-505547,http://en.ustc.edu.cn/ ,14290,Asia and Pacific
+132,University of Basel,Switzerland,Basel,63.3,http://www.usnews.com/education/best-global-universities/university-of-basel-502059,https://www.unibas.ch/en.html,,Europe
+133,Stony Brook University--SUNY,United States,"Stony Brook, NY",63.2,http://www.usnews.com/education/best-global-universities/stony-brook-university-suny-196097,http://www.stonybrook.edu,21908,North America
+134,Eberhard Karls University Tubingen,Germany,Tubingen,63,http://www.usnews.com/education/best-global-universities/eberhard-karls-university-tubingen-503424,http://www.uni-tuebingen.de/ ,,Europe
+134,University of Gottingen,Germany,Gottingen,63,http://www.usnews.com/education/best-global-universities/university-of-gottingen-502609,http://www.uni-goettingen.de/en/1.html ,25581,Europe
+136,Shanghai Jiao Tong University,China,Shanghai,62.9,http://www.usnews.com/education/best-global-universities/shanghai-jiao-tong-university-501915,http://en.sjtu.edu.cn/ ,38191,Asia and Pacific
+136,University of Bonn,Germany,Bonn,62.9,http://www.usnews.com/education/best-global-universities/university-of-bonn-504578,http://www3.uni-bonn.de/ ,32474,Europe
+136,University of Munster,Germany,Munster,62.9,http://www.usnews.com/education/best-global-universities/university-of-munster-500396,http://www.uni-muenster.de/en/ ,39838,Europe
+139,University of Oslo,Norway,Oslo,62.8,http://www.usnews.com/education/best-global-universities/university-of-oslo-502680,http://www.uio.no/english/,,Europe
+140,University of Bern,Switzerland,Bern,62.7,http://www.usnews.com/education/best-global-universities/university-of-bern-505657,http://www.unibe.ch/eng/,14708,Europe
+140,University of Utah,United States,"Salt Lake City, UT",62.7,http://www.usnews.com/education/best-global-universities/university-of-utah-230764,http://www.utah.edu,25674,North America
+142,Case Western Reserve University,United States,"Cleveland, OH",62.6,http://www.usnews.com/education/best-global-universities/case-western-reserve-university-201645,http://www.case.edu,9259,North America
+142,Hong Kong University of Science and Technology,Hong Kong,,62.6,http://www.usnews.com/education/best-global-universities/hong-kong-university-of-science-and-technology-503260,http://www.ust.hk/ ,11385,Asia and Pacific
+142,University of Bologna,Italy,Bologna,62.6,http://www.usnews.com/education/best-global-universities/university-of-bologna-502210,http://www.unibo.it/en/homepage ,85532,Europe
+145,McMaster University,Canada,"Hamilton, Ontario",62.5,http://www.usnews.com/education/best-global-universities/mcmaster-university-502196,http://www.mcmaster.ca/ ,23823,North America
+146,Johannes Gutenberg University of Mainz,Germany,Mainz,62.4,http://www.usnews.com/education/best-global-universities/johannes-gutenberg-university-of-mainz-500317,http://www.uni-mainz.de/eng/ ,,Europe
+146,Osaka University,Japan,"Suita, Osaka",62.4,http://www.usnews.com/education/best-global-universities/osaka-university-505864,http://www.osaka-u.ac.jp/en,23144,Asia and Pacific
+148,Arizona State University--Tempe,United States,"Tempe, AZ",62.2,http://www.usnews.com/education/best-global-universities/arizona-state-university-104151,http://www.asu.edu,83236,North America
+148,Sapienza University of Rome,Italy,Rome,62.2,http://www.usnews.com/education/best-global-universities/sapienza-university-of-rome-506550,http://www.uniroma1.it/ ,120986,Europe
+150,University of Padua,Italy,Padua,62.1,http://www.usnews.com/education/best-global-universities/university-of-padua-502381,http://www.unipd.it/en/ ,62577,Europe
+150,University of Sheffield,United Kingdom,Sheffield,62.1,http://www.usnews.com/education/best-global-universities/university-of-sheffield-503922,http://www.sheffield.ac.uk/,23311,Europe
+152,University of Tennessee,United States,"Knoxville, TN",62,http://www.usnews.com/education/best-global-universities/university-of-tennessee-knoxville-221759,http://www.utk.edu/,24716,North America
+153,Stockholm University,Sweden,Stockholm,61.9,http://www.usnews.com/education/best-global-universities/stockholm-university-505458,http://www.su.se/english/,31715,Europe
+154,University of Milan,Italy,Milan,61.6,http://www.usnews.com/education/best-global-universities/university-of-milan-506478,http://www.unimi.it/ENG/ ,58618,Europe
+155,University of Liverpool,United Kingdom,Liverpool,61.5,http://www.usnews.com/education/best-global-universities/university-of-liverpool-506611,http://www.liv.ac.uk/,18815,Europe
+155,University of Miami,United States,"Coral Gables, FL",61.5,http://www.usnews.com/education/best-global-universities/university-of-miami-135726,http://www.miami.edu,15286,North America
+157,Karlsruhe Institute of Technology,Germany,Karlsruhe,61.4,http://www.usnews.com/education/best-global-universities/karlsruhe-institute-of-technology-502442,http://www.kit.edu/english/ ,25294,Europe
+158,University of Erlangen Nuremberg,Germany,Erlangen,61.3,http://www.usnews.com/education/best-global-universities/university-of-erlangen-nuremberg-504002,http://www.fau.eu/,36146,Europe
+159,Hebrew University of Jerusalem,Israel,Jerusalem,61.1,http://www.usnews.com/education/best-global-universities/hebrew-university-of-jerusalem-500554,http://new.huji.ac.il/en ,17612,Europe
+159,Icahn School of Medicine at Mount Sinai,United States,"New York, NY",61.1,http://www.usnews.com/education/best-global-universities/icahn-school-of-medicine-at-mount-sinai-193405,http://www.icahn.mssm.edu/,1064,North America
+159,University of Nottingham,United Kingdom,Nottingham,61.1,http://www.usnews.com/education/best-global-universities/university-of-nottingham-503548,http://www.nottingham.ac.uk/,30144,Europe
+162,Queen Mary University of London,United Kingdom,London,60.9,http://www.usnews.com/education/best-global-universities/queen-mary-university-of-london-503389,http://www.qmul.ac.uk/,14260,Europe
+162,RWTH Aachen University,Germany,Aachen,60.9,http://www.usnews.com/education/best-global-universities/rwth-aachen-university-506441,http://www.rwth-aachen.de/ ,37917,Europe
+162,University of Cape Town,South Africa,Cape Town,60.9,http://www.usnews.com/education/best-global-universities/university-of-cape-town-504187,http://www.uct.ac.za/,20040,Africa
+165,Autonomous University of Barcelona,Spain,Barcelona,60.8,http://www.usnews.com/education/best-global-universities/autonomous-university-of-barcelona-505700,http://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html,30538,Europe
+165,Iowa State University,United States,"Ames, IA",60.8,http://www.usnews.com/education/best-global-universities/iowa-state-university-153603,http://www.iastate.edu,29991,North America
+165,Tohoku University,Japan,"Aoba-ku, Sendai, Miyagi",60.8,http://www.usnews.com/education/best-global-universities/tohoku-university-500862,http://www.tohoku.ac.jp/english/,17200,Asia and Pacific
+168,Durham University,United Kingdom,"Durham, Durham",60.6,http://www.usnews.com/education/best-global-universities/durham-university-501717,https://www.dur.ac.uk/,15489,Europe
+168,University of Cologne,Germany,Koln,60.6,http://www.usnews.com/education/best-global-universities/university-of-cologne-500060,http://www.uni-koeln.de/ ,,Europe
+168,University of Montpellier,France,Montpellier,60.6,http://www.usnews.com/education/best-global-universities/university-of-montpellier-528813,http://www.umontpellier.fr/,36731,Europe
+171,Technical University of Denmark,Denmark,Kongens Lyngby,60.5,http://www.usnews.com/education/best-global-universities/technical-university-of-denmark-503016,http://www.dtu.dk/english ,9990,Europe
+171,University of Warwick,United Kingdom,Coventry,60.5,http://www.usnews.com/education/best-global-universities/university-of-warwick-503443,http://www2.warwick.ac.uk/,18529,Europe
+173,University of Notre Dame,United States,"Notre Dame, IN",60.4,http://www.usnews.com/education/best-global-universities/university-of-notre-dame-152080,http://www.nd.edu,11829,North America
+174,University of Illinois--Chicago,United States,"Chicago, IL",60.3,http://www.usnews.com/education/best-global-universities/university-of-illinois-chicago-145600,http://www.uic.edu,24863,North America
+175,Aix-Marseille Universitie,France,Marseille,60.2,http://www.usnews.com/education/best-global-universities/aix-marseille-universite-502335,http://www.univ-amu.fr/ ,,Europe
+175,Scuola Normale Superiore di Pisa,Italy,Pisa,60.2,http://www.usnews.com/education/best-global-universities/scuola-normale-superiore-di-pisa-504541,http://www.sns.it/en/ ,462,Europe
+175,Tel Aviv University,Israel,Tel Aviv,60.2,http://www.usnews.com/education/best-global-universities/tel-aviv-university-500052,http://english.tau.ac.il/ ,23977,Europe
+178,Cardiff University,United Kingdom,"Cardiff, Wales",60.1,http://www.usnews.com/education/best-global-universities/cardiff-university-500071,http://www.cf.ac.uk/,23347,Europe
+178,Florida State University,United States,"Tallahassee, FL",60.1,http://www.usnews.com/education/best-global-universities/florida-state-university-134097,http://www.fsu.edu,36994,North America
+180,Nanjing University,China,"Nanjing, Jiangsu",59.9,http://www.usnews.com/education/best-global-universities/nanjing-university-503849,http://www.nju.edu.cn/html/eng ,29743,Asia and Pacific
+181,Goethe University Frankfurt,Germany,Frankfurt am Main,59.7,http://www.usnews.com/education/best-global-universities/goethe-university-frankfurt-503512,http://www.uni-frankfurt.de/en?locale=en ,31861,Europe
+181,University at Buffalo--SUNY,United States,"Buffalo, NY",59.7,http://www.usnews.com/education/best-global-universities/university-at-buffalo-suny-196088,http://www.buffalo.edu,25668,North America
+182,University of Auckland,New Zealand,Auckland,59.5,http://www.usnews.com/education/best-global-universities/university-of-auckland-503786,https://www.auckland.ac.nz/en.html,29787,Asia and Pacific
+183,University of Wurzburg,Germany,Wurzburg,59.4,http://www.usnews.com/education/best-global-universities/university-of-wurzburg-505067,http://www.uni-wuerzburg.de/en/ueber/university_of_wuerzburg/ ,26576,Europe
+184,Korea Advanced Institute of Science and Technology,South Korea,Daejeon,59.2,http://www.usnews.com/education/best-global-universities/korea-advanced-institute-of-science-and-technology-506336,http://www.kaist.edu/html/en/index.html,9027,Asia and Pacific
+184,Maastricht University,Netherlands,Maastricht,59.2,http://www.usnews.com/education/best-global-universities/maastricht-university-505759,http://www.maastrichtuniversity.nl/,15626,Europe
+184,University of Adelaide,Australia,"Adelaide, South Australia",59.2,http://www.usnews.com/education/best-global-universities/university-of-adelaide-504015,http://www.adelaide.edu.au/ ,20771,Asia and Pacific
+187,City University of Hong Kong,Hong Kong,"Kowloon, Hong Kong",59.1,http://www.usnews.com/education/best-global-universities/city-university-of-hong-kong-502667,http://www.cityu.edu.hk/ ,10015,Asia and Pacific
+187,Delft University of Technology,Netherlands,Delft,59.1,http://www.usnews.com/education/best-global-universities/delft-university-of-technology-505496,http://www.tudelft.nl/en/,,Europe
+189,Baylor College of Medicine,United States,"Houston, TX",59,http://www.usnews.com/education/best-global-universities/baylor-college-of-medicine-223223,https://www.bcm.edu/,1525,North America
+190,Newcastle University,United Kingdom,"Newcastle upon Tyne, Tyne and Wear",58.9,http://www.usnews.com/education/best-global-universities/newcastle-university-503247,http://www.ncl.ac.uk/,20174,Europe
+191,University of Ottawa,Canada,"Ottawa, Ontario",58.8,http://www.usnews.com/education/best-global-universities/university-of-ottawa-499972,http://www.uottawa.ca/en,,North America
+192,University of Maryland--Baltimore,United States,"Baltimore, MD",58.7,http://www.usnews.com/education/best-global-universities/university-of-maryland-baltimore-163259,http://www.umaryland.edu/,,North America
+192,University of New Mexico,United States,"Albuquerque, NM",58.7,http://www.usnews.com/education/best-global-universities/university-of-new-mexico-187985,http://www.unm.edu,23618,North America
+194,Nagoya University,Japan,"Chikusa-ku, Nagoya, Aichi",58.6,http://www.usnews.com/education/best-global-universities/nagoya-university-501944,http://en.nagoya-u.ac.jp/,15529,Asia and Pacific
+194,University of Calgary,Canada,"Calgary, Alberta",58.6,http://www.usnews.com/education/best-global-universities/university-of-calgary-499975,http://www.ucalgary.ca/,28341,North America
+194,University of Colorado--Denver,United States,"Denver, CO",58.6,http://www.usnews.com/education/best-global-universities/university-of-colorado-denver-126562,http://www.ucdenver.edu,15807,North America
+197,Pohang University of Science and Technology,South Korea,"Pohang, Gyeongbuk",58.5,http://www.usnews.com/education/best-global-universities/pohang-university-of-science-and-technology-503003,http://www.postech.ac.kr/,3055,Asia and Pacific
+198,Royal Institute of Technology,Sweden,Stockholm,58.4,http://www.usnews.com/education/best-global-universities/royal-institute-of-technology-505970,http://www.kth.se/en,12062,Europe
+198,Sun Yat-sen University,China,"Guangzhou, Guangdong",58.4,http://www.usnews.com/education/best-global-universities/sun-yat-sen-university-506062,http://www.sysu.edu.cn/2012/en/ ,51351,Asia and Pacific
+200,University of Alabama--Birmingham,United States,"Birmingham, AL",58.3,http://www.usnews.com/education/best-global-universities/university-of-alabama-birmingham-100663,http://www.uab.edu,14274,North America
+201,University of Exeter,United Kingdom,"Exeter, Devon",58.2,http://www.usnews.com/education/best-global-universities/university-of-exeter-502021,http://www.exeter.ac.uk/,17755,Europe
+202,Trinity College Dublin,Ireland,Dublin 2,58.1,http://www.usnews.com/education/best-global-universities/trinity-college-dublin-501570,https://www.tcd.ie/ ,15521,Europe
+203,Technical University of Dresden,Germany,Dresden,57.9,http://www.usnews.com/education/best-global-universities/technical-university-of-dresden-501011,http://www.tu-dresden.de/,,Europe
+204,Charles University in Prague,Czech Republic,Prague 1,57.7,http://www.usnews.com/education/best-global-universities/charles-university-in-prague-502397,http://www.cuni.cz/UKEN-1.html ,51438,Europe
+204,Northeastern University,United States,"Boston, MA",57.7,http://www.usnews.com/education/best-global-universities/northeastern-university-167358,http://www.northeastern.edu/,18539,North America
+204,University of Kansas,United States,"Lawrence, KS",57.7,http://www.usnews.com/education/best-global-universities/university-of-kansas-155317,http://www.ku.edu/,24418,North America
+207,University of Cincinnati,United States,"Cincinnati, OH",57.6,http://www.usnews.com/education/best-global-universities/university-of-cincinnati-201885,http://www.uc.edu,36108,North America
+207,University of Turin,Italy,Turin,57.6,http://www.usnews.com/education/best-global-universities/university-of-turin-502528,http://www.unito.it/,67552,Europe
+209,Autonomous University of Madrid,Spain,Madrid,57.5,http://www.usnews.com/education/best-global-universities/autonomous-university-of-madrid-502502,http://www.uam.es/cs/ContentServer/es/home/,27023,Europe
+209,Tokyo Institute of Technology,Japan,"Meguro-ku, Tokyo",57.5,http://www.usnews.com/education/best-global-universities/tokyo-institute-of-technology-504950,http://www.titech.ac.jp/english/,9586,Asia and Pacific
+209,University of Vienna,Austria,Vienna,57.5,http://www.usnews.com/education/best-global-universities/university-of-vienna-505908,http://www.univie.ac.at/en/ ,34651,Europe
+212,Charite - Medical University of Berlin,Germany,Berlin,57.4,http://www.usnews.com/education/best-global-universities/charite-medical-university-of-berlin-503621,http://www.charite.de/en/charite/ ,,Europe
+212,North Carolina State University--Raleigh,United States,"Raleigh, NC",57.4,http://www.usnews.com/education/best-global-universities/north-carolina-state-university-199193,http://www.ncsu.edu,30533,North America
+214,"Ecole Normale Superieure, Paris",France,Paris,57.3,http://www.usnews.com/education/best-global-universities/ecole-normale-superieure-paris-505721,http://www.ens.fr/?lang=en ,2400,Europe
+214,University of St Andrews,United Kingdom,"Fife, Scotland",57.3,http://www.usnews.com/education/best-global-universities/university-of-st-andrews-503328,http://www.st-andrews.ac.uk/,8338,Europe
+216,University of Lausanne,Switzerland,Lausanne,57.2,http://www.usnews.com/education/best-global-universities/university-of-lausanne-505144,http://www.unil.ch/central/en/home.html,11964,Europe
+217,Hong Kong Polytechnic University,Hong Kong,"Kowloon, Hong Kong",57.1,http://www.usnews.com/education/best-global-universities/hong-kong-polytechnic-university-500421,http://www.polyu.edu.hk/web/ ,22064,Asia and Pacific
+217,Middle East Technical University,Turkey,Ankara,57.1,http://www.usnews.com/education/best-global-universities/middle-east-technical-university-503271,http://www.metu.edu.tr/,25779,Europe
+219,University of Trieste,Italy,Trieste,57,http://www.usnews.com/education/best-global-universities/university-of-trieste-500914,http://www.units.it/ ,18135,Europe
+220,Boğaziçi University,Turkey,Istanbul,56.8,http://www.usnews.com/education/best-global-universities/bogazici-university-504066,http://www.boun.edu.tr/ ,11506,Europe
+221,University of Georgia,United States,"Athens, GA",56.6,http://www.usnews.com/education/best-global-universities/university-of-georgia-139959,http://www.uga.edu/,33119,North America
+222,École Polytechnique,France,Palaiseau,56.5,http://www.usnews.com/education/best-global-universities/ecole-polytechnique-506679,https://www.polytechnique.edu,2429,Europe
+222,Université Claude Bernard Lyon 1,France,Villeurbanne,56.5,http://www.usnews.com/education/best-global-universities/universite-claude-bernard-lyon-1-500870,http://www.univ-lyon1.fr/,,Europe
+222,Yeshiva University,United States,"New York, NY",56.5,http://www.usnews.com/education/best-global-universities/yeshiva-university-197708,http://www.yu.edu,6753,North America
+225,University of Bergen,Norway,Bergen,56.4,http://www.usnews.com/education/best-global-universities/university-of-bergen-500374,http://www.uib.no/en,11623,Europe
+226,Universitie Libre de Bruxelles,Belgium,Brussels,56.3,http://www.usnews.com/education/best-global-universities/universite-libre-de-bruxelles-505303,http://www.ulb.ac.be/ ,,Europe
+227,Lomonosov Moscow State University,Russia,Moscow,56.2,http://www.usnews.com/education/best-global-universities/lomonosov-moscow-state-university-500445,http://www.msu.ru/en/,30822,Europe
+227,University of Antwerp,Belgium,Antwerp,56.2,http://www.usnews.com/education/best-global-universities/university-of-antwerp-505023,https://www.uantwerpen.be/en/ ,12346,Europe
+227,University of Oregon,United States,"Eugene, OR",56.2,http://www.usnews.com/education/best-global-universities/university-of-oregon-209551,http://www.uoregon.edu,22938,North America
+230,Universitie Paul Sabatier - Toulouse 3,France,Toulouse,56.1,http://www.usnews.com/education/best-global-universities/universite-paul-sabatier-toulouse-3-503302,http://www.univ-tlse3.fr/ ,,Europe
+231,Dartmouth College,United States,"Hanover, NH",56,http://www.usnews.com/education/best-global-universities/dartmouth-college-182670,http://www.dartmouth.edu,6178,North America
+231,Lancaster University,United Kingdom,Lancaster,56,http://www.usnews.com/education/best-global-universities/lancaster-university-504720,http://www.lancaster.ac.uk/,11512,Europe
+231,Sungkyunkwan University,South Korea,Seoul,56,http://www.usnews.com/education/best-global-universities/sungkyunkwan-university-500193,http://www.skku.edu/eng_home/index.jsp,24365,Asia and Pacific
+231,University of Kiel,Germany,Kiel,56,http://www.usnews.com/education/best-global-universities/university-of-kiel-504681,http://www.uni-kiel.de/index-e.shtml ,24444,Europe
+235,Universitie Paris Descartes - Paris V,France,Paris,55.8,http://www.usnews.com/education/best-global-universities/universite-paris-descartes-paris-v-500753,http://www.univ-paris5.fr/eng ,,Europe
+236,Colorado State University,United States,"Fort Collins, CO",55.6,http://www.usnews.com/education/best-global-universities/colorado-state-university-126818,http://www.colostate.edu,26769,North America
+236,Universitie Catholique de Louvain,Belgium,Louvain-la-Neuve,55.6,http://www.usnews.com/education/best-global-universities/universite-catholique-de-louvain-506348,http://www.uclouvain.be/en-index.html ,28856,Europe
+236,University of Western Ontario,Canada,"London, Ontario",55.6,http://www.usnews.com/education/best-global-universities/university-of-western-ontario-499965,http://welcome.uwo.ca/,27387,North America
+239,University of Florence,Italy,Florence,55.5,http://www.usnews.com/education/best-global-universities/university-of-florence-501033,http://www.unifi.it/ ,54290,Europe
+240,Universidade de Lisboa,Portugal,Lisbon,55.4,http://www.usnews.com/education/best-global-universities/universidade-de-lisboa-501120,http://www.ulisboa.pt/,47849,Europe
+240,University of Aberdeen,United Kingdom,"Aberdeen, Scotland",55.4,http://www.usnews.com/education/best-global-universities/university-of-aberdeen-501749,http://www.abdn.ac.uk/,12938,Europe
+242,University of Naples Federico II,Italy,Naples,55.3,http://www.usnews.com/education/best-global-universities/university-of-naples-federico-ii-505539,http://www.international.unina.it/ ,,Europe
+242,University of South Carolina,United States,"Columbia, SC",55.3,http://www.usnews.com/education/best-global-universities/university-of-south-carolina-218663,http://www.sc.edu,28443,North America
+244,Oregon State University,United States,"Corvallis, OR",55.2,http://www.usnews.com/education/best-global-universities/oregon-state-university-209542,http://oregonstate.edu,22578,North America
+244,University of Nebraska--Lincoln,United States,"Lincoln, NE",55.2,http://www.usnews.com/education/best-global-universities/university-of-nebraska-lincoln-181464,http://www.unl.edu,21789,North America
+244,University of Waterloo,Canada,"Waterloo, Ontario",55.2,http://www.usnews.com/education/best-global-universities/university-of-waterloo-499966,http://uwaterloo.ca/,30726,North America
+247,University of Leicester,United Kingdom,Leicester,55.1,http://www.usnews.com/education/best-global-universities/university-of-leicester-501221,http://www.le.ac.uk/,14541,Europe
+248,Georgetown University,United States,"Washington, DC",55,http://www.usnews.com/education/best-global-universities/georgetown-university-131496,http://www.georgetown.edu,15408,North America
+248,University of Sussex,United Kingdom,Brighton,55,http://www.usnews.com/education/best-global-universities/university-of-sussex-503906,http://www.sussex.ac.uk/,12001,Europe
+248,University of York,United Kingdom,York,55,http://www.usnews.com/education/best-global-universities/university-of-york-505776,http://www.york.ac.uk/,14543,Europe
+251,University of Texas--Dallas,United States,"Richardson, TX",54.9,http://www.usnews.com/education/best-global-universities/university-of-texas-dallas-228787,http://www.utdallas.edu,16306,North America
+251,Wuhan University,China,"Wuhan, Hubei",54.9,http://www.usnews.com/education/best-global-universities/wuhan-university-503252,http://en.whu.edu.cn/,46227,Asia and Pacific
+253,University College Dublin,Ireland,Dublin 4,54.8,http://www.usnews.com/education/best-global-universities/university-college-dublin-504418,http://www.ucd.ie/,22193,Europe
+253,University of Pavia,Italy,Pavia,54.8,http://www.usnews.com/education/best-global-universities/university-of-pavia-502948,http://www.unipv.eu/site/en/home.html,22958,Europe
+253,Virginia Tech,United States,"Blacksburg, VA",54.8,http://www.usnews.com/education/best-global-universities/virginia-tech-233921,http://www.vt.edu,30850,North America
+253,Wayne State University,United States,"Detroit, MI",54.8,http://www.usnews.com/education/best-global-universities/wayne-state-university-172644,http://www.wayne.edu/,23065,North America
+257,Laval University,Canada,"Quebec City, Quebec",54.7,http://www.usnews.com/education/best-global-universities/laval-university-505699,http://www2.ulaval.ca/en/home.html,27227,North America
+257,University of Valencia,Spain,Valencia,54.7,http://www.usnews.com/education/best-global-universities/university-of-valencia-504510,http://www.uv.es/uvweb/college/en/university-valencia-1285845048380.html,58413,Europe
+259,University of Kentucky,United States,"Lexington, KY",54.6,http://www.usnews.com/education/best-global-universities/university-of-kentucky-157085,http://www.uky.edu,26215,North America
+260,Indiana University-Purdue University--Indianapolis,United States,"Indianapolis, IN",54.5,http://www.usnews.com/education/best-global-universities/indiana-university-purdue-university-indianapolis-151111,http://www.iupui.edu,,North America
+260,University of East Anglia,United Kingdom,Norwich,54.5,http://www.usnews.com/education/best-global-universities/university-of-east-anglia-503561,http://www.uea.ac.uk/,14992,Europe
+260,Yonsei University,South Korea,Seoul,54.5,http://www.usnews.com/education/best-global-universities/yonsei-university-503801,http://oldwww.yonsei.ac.kr/eng/,24774,Asia and Pacific
+263,Ruhr University Bochum,Germany,Bochum,54.4,http://www.usnews.com/education/best-global-universities/ruhr-university-bochum-500459,http://www.ruhr-uni-bochum.de/index_en.htm ,38675,Europe
+263,University of Connecticut,United States,"Storrs, CT",54.4,http://www.usnews.com/education/best-global-universities/university-of-connecticut-129020,http://www.uconn.edu,25742,North America
+265,Huazhong University of Science and Technology,China,"Wuhan, Hubei",54.3,http://www.usnews.com/education/best-global-universities/huazhong-university-of-science-and-technology-505190,http://english.hust.edu.cn/ ,57242,Asia and Pacific
+265,University of Pisa,Italy,Pisa,54.3,http://www.usnews.com/education/best-global-universities/university-of-pisa-501006,http://www.unipi.it/index.php/english ,47247,Europe
+265,University of Tsukuba,Japan,"Tsukuba, Ibaraki",54.3,http://www.usnews.com/education/best-global-universities/university-of-tsukuba-506429,http://www.tsukuba.ac.jp/english/,15930,Asia and Pacific
+268,George Washington University,United States,"Washington, DC",54.2,http://www.usnews.com/education/best-global-universities/george-washington-university-131469,http://www.gwu.edu,20541,North America
+268,Technical University of Berlin,Germany,Berlin,54.2,http://www.usnews.com/education/best-global-universities/technical-university-of-berlin-506357,http://www.tu-berlin.de/ ,,Europe
+270,Oregon Health and Science University,United States,"Portland, OR",54.1,http://www.usnews.com/education/best-global-universities/oregon-health-and-science-university-209490,http://www.ohsu.edu/,2013,North America
+270,University of Otago,New Zealand,Dunedin,54.1,http://www.usnews.com/education/best-global-universities/university-of-otago-506723,http://www.otago.ac.nz/,18600,Asia and Pacific
+272,Shandong University,China,"Jinan, Shandong",54,http://www.usnews.com/education/best-global-universities/shandong-university-505166,http://en.sdu.edu.cn/ ,,Asia and Pacific
+272,University of Gothenburg,Sweden,Gothenburg,54,http://www.usnews.com/education/best-global-universities/university-of-gothenburg-501869,http://www.gu.se/english,26420,Europe
+274,University of Ulm,Germany,Ulm,53.9,http://www.usnews.com/education/best-global-universities/university-of-ulm-502475,http://www.uni-ulm.de/en/homepage.html ,9187,Europe
+275,University of Rome Tor Vergata,Italy,Rome,53.8,http://www.usnews.com/education/best-global-universities/university-of-rome-tor-vergata-500808,http://web.uniroma2.it/ ,,Europe
+275,University of South Florida,United States,"Tampa, FL",53.8,http://www.usnews.com/education/best-global-universities/university-of-south-florida-137351,http://www.usf.edu,31424,North America
+275,Xiamen University,China,"Xiamen, Fujian",53.8,http://www.usnews.com/education/best-global-universities/xiamen-university-506410,http://www.xmu.edu.cn/en/,,Asia and Pacific
+278,Technion Israel Institute of Technology,Israel,Haifa,53.7,http://www.usnews.com/education/best-global-universities/technion-israel-institute-of-technology-505919,http://www.technion.ac.il/en/ ,13855,Europe
+278,University of Oklahoma,United States,"Norman, OK",53.7,http://www.usnews.com/education/best-global-universities/university-of-oklahoma-207500,http://www.ou.edu,28126,North America
+280,Istanbul Teknik Universitesi,Turkey,Istanbul,53.6,http://www.usnews.com/education/best-global-universities/istanbul-teknik-universitesi-503684,http://www.itu.edu.tr/en/home,34550,Europe
+280,Korea University,South Korea,Seoul,53.6,http://www.usnews.com/education/best-global-universities/korea-university-505391,http://www.korea.ac.kr/mbshome/mbs/en/index.do,24043,Asia and Pacific
+282,Hokkaido University,Japan,"Kita-ku, Sapporo, Hokkaido",53.5,http://www.usnews.com/education/best-global-universities/hokkaido-university-501928,http://www.oia.hokudai.ac.jp/,18162,Asia and Pacific
+282,University of Delaware,United States,"Newark, DE",53.5,http://www.usnews.com/education/best-global-universities/university-of-delaware-130943,http://www.udel.edu/,19262,North America
+284,Queen's University Belfast,United Kingdom,"Belfast, Northern Ireland",53.4,http://www.usnews.com/education/best-global-universities/queens-university-belfast-505350,http://www.qub.ac.uk/,17940,Europe
+284,Simon Fraser University,Canada,"Burnaby, British Columbia",53.4,http://www.usnews.com/education/best-global-universities/simon-fraser-university-499981,http://www.sfu.ca,26640,North America
+284,University of Duisburg-Essen,Germany,Essen,53.4,http://www.usnews.com/education/best-global-universities/university-of-duisburg-essen-505327,https://www.uni-due.de/en/ ,36051,Europe
+284,University of Witwatersrand,South Africa,Johannesburg,53.4,http://www.usnews.com/education/best-global-universities/university-of-witwatersrand-500909,http://www.wits.ac.za/,23321,Africa
+288,Darmstadt University of Technology,Germany,Darmstadt,53.3,http://www.usnews.com/education/best-global-universities/darmstadt-university-of-technology-506035,http://www.tu-darmstadt.de/ ,20300,Europe
+288,Eindhoven University of Technology,Netherlands,Eindhoven,53.3,http://www.usnews.com/education/best-global-universities/eindhoven-university-of-technology-501655,https://www.tue.nl/en/,8176,Europe
+288,Universidade Federal do Rio de Janeiro,Brazil,Rio de Janeiro,53.3,http://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-de-janeiro-504608,http://www.ufrj.br/ ,52878,South/Latin America
+291,Kyushu University,Japan,"Higashi-ku Fukuoka, Fukuoka",53.2,http://www.usnews.com/education/best-global-universities/kyushu-university-505482,http://www.kyushu-u.ac.jp/english/,18925,Asia and Pacific
+292,National and Kapodistrian University of Athens,Greece,Athens,53.1,http://www.usnews.com/education/best-global-universities/national-and-kapodistrian-university-of-athens-504988,http://en.uoa.gr/ ,,Europe
+292,Pompeu Fabra University,Spain,Barcelona,53.1,http://www.usnews.com/education/best-global-universities/pompeu-fabra-university-504748,http://www.upf.edu/en/,,Europe
+294,King Abdullah University of Science &amp; Technology,Saudi Arabia,Thuwal,53,http://www.usnews.com/education/best-global-universities/king-abdullah-university-of-science-technology-510489,http://www.kaust.edu.sa/,,Arab States
+295,Waseda University,Japan,"Shinjuku-ku, Tokyo",52.9,http://www.usnews.com/education/best-global-universities/waseda-university-501931,http://www.waseda.jp/top/en,52316,Asia and Pacific
+296,Beijing Normal University,China,Beijing,52.8,http://www.usnews.com/education/best-global-universities/beijing-normal-university-506588,http://english.bnu.edu.cn/ ,,Asia and Pacific
+296,University of Victoria,Canada,"Victoria, British Columbia",52.8,http://www.usnews.com/education/best-global-universities/university-of-victoria-499967,http://www.uvic.ca/,17584,North America
+298,Brandeis University,United States,"Waltham, MA",52.7,http://www.usnews.com/education/best-global-universities/brandeis-university-165015,http://www.brandeis.edu,5495,North America
+298,Nankai University,China,"Nankai, Tianjin",52.7,http://www.usnews.com/education/best-global-universities/nankai-university-505981,http://english.nankai.edu.cn/,,Asia and Pacific
+298,University of Massachusetts--Worcester,United States,"Worcester, MA",52.7,http://www.usnews.com/education/best-global-universities/university-of-massachusetts-worcester-166708,http://www.umassmed.edu/,,North America
+301,National Tsing Hua University,Taiwan,Hsinchu,52.3,http://www.usnews.com/education/best-global-universities/national-tsing-hua-university-501245,http://www.nthu.edu.tw/english/,10221,Asia and Pacific
+301,University of Warsaw,Poland,Warsaw,52.3,http://www.usnews.com/education/best-global-universities/university-of-warsaw-502726,http://arch.uw.edu.pl/en/,49292,Europe
+303,University of Houston,United States,"Houston, TX",52.2,http://www.usnews.com/education/best-global-universities/university-of-houston-225511,http://www.uh.edu,40325,North America
+303,University of Reading,United Kingdom,"Reading, Berkshire",52.2,http://www.usnews.com/education/best-global-universities/university-of-reading-504198,http://www.reading.ac.uk/,12050,Europe
+305,Universidade Estadual de Campinas,Brazil,"Campinas, Sao Paulo",52.1,http://www.usnews.com/education/best-global-universities/universidade-estadual-de-campinas-504975,http://www.unicamp.br/unicamp/?language=en ,27095,South/Latin America
+305,University of Milan-Bicocca,Italy,Milan,52.1,http://www.usnews.com/education/best-global-universities/university-of-milan-bicocca-501339,http://www.unimib.it/go/102/Home/English ,,Europe
+307,University of Missouri,United States,"Columbia, MO",52,http://www.usnews.com/education/best-global-universities/university-of-missouri-columbia-178396,http://www.missouri.edu,29885,North America
+307,University of Stuttgart,Germany,Stuttgart,52,http://www.usnews.com/education/best-global-universities/university-of-stuttgart-506202,http://www.uni-stuttgart.de/home/index.en.html ,24099,Europe
+307,Vienna University of Technology,Austria,Vienna,52,http://www.usnews.com/education/best-global-universities/vienna-university-of-technology-502163,http://www.tuwien.ac.at/en/tuwien_home/ ,,Europe
+310,Queen's University,Canada,"Kingston, Ontario",51.9,http://www.usnews.com/education/best-global-universities/queens-university-500946,http://www.queensu.ca/ ,20488,North America
+310,University of Innsbruck,Austria,Innsbruck,51.9,http://www.usnews.com/education/best-global-universities/university-of-innsbruck-504813,http://www.uibk.ac.at/index.html.en ,18209,Europe
+312,Baylor University,United States,"Waco, TX",51.8,http://www.usnews.com/education/best-global-universities/baylor-university-223232,http://www.baylor.edu,14975,North America
+312,Royal Holloway University of London,United Kingdom,"Egham, Surrey",51.8,http://www.usnews.com/education/best-global-universities/royal-holloway-university-of-london-501237,https://www.royalholloway.ac.uk/home.aspx,8744,Europe
+314,Complutense University of Madrid,Spain,Madrid,51.7,http://www.usnews.com/education/best-global-universities/complutense-university-of-madrid-506527,https://www.ucm.es/english,86519,Europe
+314,Universitie de Savoie,France,Chambery,51.7,http://www.usnews.com/education/best-global-universities/universite-de-savoie-501758,http://www.univ-savoie.fr/ ,,Europe
+314,University of Hawaii--Manoa,United States,"Honolulu, HI",51.7,http://www.usnews.com/education/best-global-universities/university-of-hawaii-manoa-141574,http://www.manoa.hawaii.edu/,16773,North America
+317,Norwegian University of Science and Technology,Norway,Trondheim,51.5,http://www.usnews.com/education/best-global-universities/norwegian-university-of-science-and-technology-503599,http://www.ntnu.edu/,17381,Europe
+317,Wake Forest University,United States,"Winston-Salem, NC",51.5,http://www.usnews.com/education/best-global-universities/wake-forest-university-199847,http://www.wfu.edu,7326,North America
+319,Harbin Institute of Technology,China,"Harbin, Heilongjiang",51.4,http://www.usnews.com/education/best-global-universities/harbin-institute-of-technology-505604,http://en.hit.edu.cn/ ,31658,Asia and Pacific
+320,Thomas Jefferson University,United States,"Philadelphia, PA",51.3,http://www.usnews.com/education/best-global-universities/thomas-jefferson-university-216366,http://www.jefferson.edu/,2968,North America
+320,Vrije Universiteit Brussel,Belgium,Elsene,51.3,http://www.usnews.com/education/best-global-universities/vrije-universiteit-brussel-504942,http://www.vub.ac.be/en/ ,9020,Europe
+322,Friedrich Schiller University of Jena,Germany,Jena,51.2,http://www.usnews.com/education/best-global-universities/friedrich-schiller-university-of-jena-500506,http://www.uni-jena.de/en/start.html ,,Europe
+322,Macquarie University,Australia,"North Ryde, New South Wales",51.2,http://www.usnews.com/education/best-global-universities/macquarie-university-502013,http://mq.edu.au/ ,27930,Asia and Pacific
+322,Medical University of Vienna,Austria,Vienna,51.2,http://www.usnews.com/education/best-global-universities/medical-university-of-vienna-504165,http://www.meduniwien.ac.at/homepage/1/homepage/ ,7426,Europe
+322,Universidade do Porto,Portugal,Porto,51.2,http://www.usnews.com/education/best-global-universities/universidade-do-porto-505685,http://sigarra.up.pt/up/en/WEB_PAGE.INICIAL,32720,Europe
+322,University of Buenos Aires,Argentina,"Buenos Aires City, Buenos Aires",51.2,http://www.usnews.com/education/best-global-universities/university-of-buenos-aires-504821,http://www.uba.ar/,,South/Latin America
+327,London School of Economics and Political Science,United Kingdom,London,51.1,http://www.usnews.com/education/best-global-universities/london-school-of-economics-and-political-science-502076,http://www.lse.ac.uk/home.aspx,9233,Europe
+328,University of Dundee,United Kingdom,"Dundee, Scotland",51,http://www.usnews.com/education/best-global-universities/university-of-dundee-506606,http://www.dundee.ac.uk/,11628,Europe
+329,Syracuse University,United States,"Syracuse, NY",50.9,http://www.usnews.com/education/best-global-universities/syracuse-university-196413,http://syr.edu,19660,North America
+329,Umea University,Sweden,Umea,50.9,http://www.usnews.com/education/best-global-universities/umea-university-504031,http://www.umu.se/english,,Europe
+329,University of Granada,Spain,"Granada, Granada",50.9,http://www.usnews.com/education/best-global-universities/university-of-granada-505316,http://www.ugr.es/en/,,Europe
+329,University of Mississippi,United States,"University, MS",50.9,http://www.usnews.com/education/best-global-universities/university-of-mississippi-176017,http://www.olemiss.edu,17663,North America
+329,Virginia Commonwealth University,United States,"Richmond, VA",50.9,http://www.usnews.com/education/best-global-universities/virginia-commonwealth-university-234030,http://www.vcu.edu,27445,North America
+334,University of Perugia,Italy,Perugia,50.8,http://www.usnews.com/education/best-global-universities/university-of-perugia-504697,http://www.unipg.it/en/ ,,Europe
+335,Tongji University,China,Shanghai,50.7,http://www.usnews.com/education/best-global-universities/tongji-university-501326,http://www.tongji.edu.cn/english/ ,37394,Asia and Pacific
+336,Xi'an Jiaotong University,China,"Xi'an, Shaanxi",50.6,http://www.usnews.com/education/best-global-universities/xian-jiaotong-university-503987,http://en.xjtu.edu.cn/,29863,Asia and Pacific
+337,Medical University of South Carolina,United States,"Charleston, SC",50.5,http://www.usnews.com/education/best-global-universities/medical-university-of-south-carolina-218335,http://www.musc.edu,2627,North America
+338,Polytechnic University of Milan,Italy,Milan,50.4,http://www.usnews.com/education/best-global-universities/polytechnic-university-of-milan-502229,http://www.polimi.it/en/ ,30025,Europe
+339,Queensland University of Technology,Australia,"Brisbane, Queensland",50.3,http://www.usnews.com/education/best-global-universities/queensland-university-of-technology-504619,https://www.qut.edu.au/ ,33391,Asia and Pacific
+340,Jagiellonian University,Poland,Krakow,50.2,http://www.usnews.com/education/best-global-universities/jagiellonian-university-500039,http://www.uj.edu.pl/en/,44038,Europe
+341,Universite of Liege,Belgium,Liege,50.1,http://www.usnews.com/education/best-global-universities/universite-of-liege-506253,http://www.ulg.ac.be/cms/c_5000/en/home ,20951,Europe
+341,University of Genoa,Italy,Genoa,50.1,http://www.usnews.com/education/best-global-universities/university-of-genoa-503778,http://www.unige.it/ ,,Europe
+341,Washington State University,United States,"Pullman, WA",50.1,http://www.usnews.com/education/best-global-universities/washington-state-university-236939,http://www.wsu.edu,24550,North America
+344,Heinrich Heine University Dusseldorf,Germany,Dusseldorf,50,http://www.usnews.com/education/best-global-universities/heinrich-heine-university-dusseldorf-503659,http://www.uni-duesseldorf.de/home/en/home.html ,,Europe
+346,Curtin University of Technology,Australia,"Bentley, Western Australia",49.9,http://www.usnews.com/education/best-global-universities/curtin-university-of-technology-503377,http://www.curtin.edu.au/ ,30332,Asia and Pacific
+346,Jilin University,China,"Changchun, Jilin",49.9,http://www.usnews.com/education/best-global-universities/jilin-university-506709,http://www.jlu.edu.cn/newjlu/ ,65605,Asia and Pacific
+346,University at Albany--SUNY,United States,"Albany, NY",49.9,http://www.usnews.com/education/best-global-universities/university-at-albany-suny-196060,http://www.albany.edu,15387,North America
+346,University of Wollongong,Australia,"Wollongong, New South Wales",49.9,http://www.usnews.com/education/best-global-universities/university-of-wollongong-503195,http://www.uow.edu.au/index.html ,16489,Asia and Pacific
+350,University of Leipzig,Germany,Leipzig,49.8,http://www.usnews.com/education/best-global-universities/university-of-leipzig-503504,http://www.zv.uni-leipzig.de/en/ ,,Europe
+350,University of Twente,Netherlands,Enschede,49.8,http://www.usnews.com/education/best-global-universities/university-of-twente-506687,http://www.utwente.nl/en/,,Europe
+352,Aalto University,Finland,Esbo,49.7,http://www.usnews.com/education/best-global-universities/aalto-university-503645,http://www.aalto.fi/en/ ,16099,Europe
+352,Kansas State University,United States,"Manhattan, KS",49.7,http://www.usnews.com/education/best-global-universities/kansas-state-university-155399,http://www.k-state.edu,21379,North America
+354,Indian Institute of Science,India,Bangalore,49.6,http://www.usnews.com/education/best-global-universities/indian-institute-of-science-505956,http://www.iisc.ernet.in/ ,3318,Asia and Pacific
+354,James Cook University,Australia,"Townsville City, Queensland",49.6,http://www.usnews.com/education/best-global-universities/james-cook-university-506320,http://www.jcu.edu.au/  ,11713,Asia and Pacific
+356,Temple University,United States,"Philadelphia, PA",49.5,http://www.usnews.com/education/best-global-universities/temple-university-216339,http://www.temple.edu,33268,North America
+357,Justus Liebig University Giessen,Germany,Giessen,49.4,http://www.usnews.com/education/best-global-universities/justus-liebig-university-giessen-500790,http://www.uni-giessen.de/cms/ ,,Europe
+357,Southern Methodist University,United States,"Dallas, TX",49.4,http://www.usnews.com/education/best-global-universities/southern-methodist-university-228246,http://www.smu.edu,9390,North America
+359,National Autonomous University of Mexico,Mexico,"Ciudad de Mexico, Distrito Federal",49.3,http://www.usnews.com/education/best-global-universities/national-autonomous-university-of-mexico-502101,https://www.unam.mx/,137378,South/Latin America
+359,Southeast University,China,"Nanjing, Jiangsu",49.3,http://www.usnews.com/education/best-global-universities/southeast-university-505648,http://www.seu.edu.cn/english/,,Asia and Pacific
+359,Vita-Salute San Raffaele University,Italy,Milan,49.3,http://www.usnews.com/education/best-global-universities/vita-salute-san-raffaele-university-501347,http://www.unisr.it/view.asp?id=7290 ,,Europe
+362,University of Manitoba,Canada,"Winnipeg, Manitoba",49.2,http://www.usnews.com/education/best-global-universities/university-of-manitoba-503954,http://umanitoba.ca/ ,28576,North America
+363,Boston College,United States,"Chestnut Hill, MA",49.1,http://www.usnews.com/education/best-global-universities/boston-college-164924,http://www.bc.edu,13216,North America
+363,Panjab University,India,Chandigarh,49.1,http://www.usnews.com/education/best-global-universities/panjab-university-528843,http://puchd.ac.in/,16691,Asia and Pacific
+365,Universite de Bordeaux,France,Talence,49,http://www.usnews.com/education/best-global-universities/universite-de-bordeaux-528820,http://www.u-bordeaux.com/,51239,Europe
+366,Chalmers University of Technology,Sweden,Gothenburg,48.9,http://www.usnews.com/education/best-global-universities/chalmers-university-of-technology-505279,http://www.chalmers.se/en/Pages/default.aspx,8605,Europe
+366,Tulane University,United States,"New Orleans, LA",48.9,http://www.usnews.com/education/best-global-universities/tulane-university-160755,http://www.tulane.edu,11381,North America
+366,University of Newcastle,Australia,"Callaghan, New South Wales",48.9,http://www.usnews.com/education/best-global-universities/university-of-newcastle-500363,http://www.newcastle.edu.au/ ,,Asia and Pacific
+366,University of Tasmania,Australia,"Hobart, Tasmania",48.9,http://www.usnews.com/education/best-global-universities/university-of-tasmania-502985,http://www.utas.edu.au/ ,18340,Asia and Pacific
+370,Dalhousie University,Canada,"Halifax, Nova Scotia",48.8,http://www.usnews.com/education/best-global-universities/dalhousie-university-499990,http://www.dal.ca/,15064,North America
+370,George Mason University,United States,"Fairfax, VA",48.8,http://www.usnews.com/education/best-global-universities/george-mason-university-232186,http://www.gmu.edu,26622,North America
+370,Hannover Medical School,Germany,Hannover,48.8,http://www.usnews.com/education/best-global-universities/hannover-medical-school-503226,http://www.mh-hannover.de/index.php?&L=1 ,,Europe
+370,University of Regensburg,Germany,Regensburg,48.8,http://www.usnews.com/education/best-global-universities/university-of-regensburg-500220,http://www.uni-regensburg.de/index.html.en ,,Europe
+370,University of Trento,Italy,Trento,48.8,http://www.usnews.com/education/best-global-universities/university-of-trento-504044,http://www.unitn.it/en ,16841,Europe
+375,Dalian University of Technology,China,"Dalian City, Liaoning",48.6,http://www.usnews.com/education/best-global-universities/dalian-university-of-technology-500236,http://wwwold.dlut.edu.cn/en/  ,34326,Asia and Pacific
+375,Grenoble Institute of Technology,France,Grenoble,48.6,http://www.usnews.com/education/best-global-universities/grenoble-institute-of-technology-504372,http://www.grenoble-inp.fr/grenoble-institute-of-technology-9224.kjsp ,,Europe
+375,University of Bari,Italy,Bari,48.6,http://www.usnews.com/education/best-global-universities/university-of-bari-505560,http://www.uniba.it/english-version ,51560,Europe
+378,King Abdulaziz University,Saudi Arabia,Jeddah,48.5,http://www.usnews.com/education/best-global-universities/king-abdulaziz-university-501597,http://www.kau.edu.sa/home_ENGLISH.aspx,35889,Arab States
+379,Rensselaer Polytechnic Institute,United States,"Troy, NY",48.4,http://www.usnews.com/education/best-global-universities/rensselaer-polytechnic-institute-194824,http://www.rpi.edu,6671,North America
+379,University of Tehran,Iran,Tehran,48.4,http://www.usnews.com/education/best-global-universities/university-of-tehran-504903,http://www.ut.ac.ir/en ,53802,Asia and Pacific
+381,China Agricultural University,China,Beijing,48.2,http://www.usnews.com/education/best-global-universities/china-agricultural-university-500688,http://english.cau.edu.cn/ ,19552,Asia and Pacific
+381,Deakin University,Australia,"Burwood, Victoria",48.2,http://www.usnews.com/education/best-global-universities/deakin-university-504884,http://www.deakin.edu.au/ ,32713,Asia and Pacific
+381,Dortmund University of Technology,Germany,Dortmund,48.2,http://www.usnews.com/education/best-global-universities/dortmund-university-of-technology-504395,http://www.tu-dortmund.de/uni/Uni/index.html ,,Europe
+384,University of Canterbury,New Zealand,Christchurch,48.1,http://www.usnews.com/education/best-global-universities/university-of-canterbury-504532,http://www.canterbury.ac.nz/,12187,Asia and Pacific
+384,York University,Canada,"Toronto, Ontario",48.1,http://www.usnews.com/education/best-global-universities/york-university-canada-499962,http://www.yorku.ca/web/,48007,North America
+386,Brunel University,United Kingdom,"Uxbridge, Middlesex",48,http://www.usnews.com/education/best-global-universities/brunel-university-502232,http://www.brunel.ac.uk/,12613,Europe
+386,University of Ljubljana,Slovenia,Ljubljana,48,http://www.usnews.com/education/best-global-universities/university-of-ljubljana-502840,http://www.uni-lj.si/eng/,48821,Europe
+386,University of Southern Denmark,Denmark,Odense M,48,http://www.usnews.com/education/best-global-universities/university-of-southern-denmark-500382,http://www.sdu.dk/en/ ,22210,Europe
+389,Bilkent University,Turkey,Ankara,47.9,http://www.usnews.com/education/best-global-universities/bilkent-university-506575,http://www.bilkent.edu.tr/index.html,9370,Europe
+389,Drexel University,United States,"Philadelphia, PA",47.9,http://www.usnews.com/education/best-global-universities/drexel-university-212054,http://www.drexel.edu,20713,North America
+389,Florida International University,United States,"Miami, FL",47.9,http://www.usnews.com/education/best-global-universities/florida-international-university-133951,http://www.fiu.edu,32566,North America
+389,Hiroshima University,Japan,"Higashi-Hiroshima, Hiroshima",47.9,http://www.usnews.com/education/best-global-universities/hiroshima-university-502589,http://www.hiroshima-u.ac.jp/index.html,14686,Asia and Pacific
+389,University of Turku,Finland,Turku,47.9,http://www.usnews.com/education/best-global-universities/university-of-turku-504089,http://www.utu.fi/en/Pages/home.aspx ,12326,Europe
+394,Universitie de Lorraine,France,Nancy,47.8,http://www.usnews.com/education/best-global-universities/universite-de-lorraine-502961,http://www.univ-lorraine.fr/ ,,Europe
+395,South China University of Technology,China,"Guangzhou, Guangdong",47.7,http://www.usnews.com/education/best-global-universities/south-china-university-of-technology-505115,http://en.scut.edu.cn/ ,41438,Asia and Pacific
+396,Universidade Federal de Minas Gerais,Brazil,"Belo Horizonte, Minas Gerais",47.6,http://www.usnews.com/education/best-global-universities/universidade-federal-de-minas-gerais-506043,https://www.ufmg.br/ ,,South/Latin America
+396,University of Belgrade,Serbia,Belgrade,47.6,http://www.usnews.com/education/best-global-universities/university-of-belgrade-500616,http://www.bg.ac.rs/en/,96962,Europe
+396,University of Siena,Italy,Siena,47.6,http://www.usnews.com/education/best-global-universities/university-of-siena-504323,http://en.unisi.it/ ,,Europe
+399,Czech Technical University in Prague,Czech Republic,Prague 6,47.5,http://www.usnews.com/education/best-global-universities/czech-technical-university-in-prague-502255,http://intranet.cvut.cz/en ,,Europe
+399,National Cheng Kung University,Taiwan,Tainan City,47.5,http://www.usnews.com/education/best-global-universities/national-cheng-kung-university-502356,http://web.ncku.edu.tw/bin/home.php?Lang=en,21234,Asia and Pacific
+399,University of Santiago de Compostela,Spain,Santiago de Compostela,47.5,http://www.usnews.com/education/best-global-universities/university-of-santiago-de-compostela-506569,http://www.usc.es/en/index.html,29085,Europe
+402,Griffith University,Australia,"Nathan, Queensland",47.4,http://www.usnews.com/education/best-global-universities/griffith-university-501686,http://www.griffith.edu.au/ ,30251,Asia and Pacific
+402,Swedish University of Agricultural Sciences,Sweden,Uppsala,47.4,http://www.usnews.com/education/best-global-universities/swedish-university-of-agricultural-sciences-503091,http://www.slu.se/en/,3879,Europe
+402,University of Central Florida,United States,"Orlando, FL",47.4,http://www.usnews.com/education/best-global-universities/university-of-central-florida-132903,http://www.ucf.edu,53484,North America
+405,Universidade de Coimbra,Portugal,Coimbra,47.3,http://www.usnews.com/education/best-global-universities/universidade-de-coimbra-501040,http://www.uc.pt/en,22795,Europe
+405,University of Bremen,Germany,Bremen,47.3,http://www.usnews.com/education/best-global-universities/university-of-bremen-500777,http://www.uni-bremen.de/en.html ,18590,Europe
+407,Colorado School of Mines,United States,"Golden, CO",47.2,http://www.usnews.com/education/best-global-universities/colorado-school-of-mines-126775,http://www.mines.edu,5346,North America
+407,East China Normal University,China,Shanghai,47.2,http://www.usnews.com/education/best-global-universities/east-china-normal-university-506407,http://english.ecnu.edu.cn/,29623,Asia and Pacific
+407,International School for Advanced Studies,Italy,Trieste,47.2,http://www.usnews.com/education/best-global-universities/international-school-for-advanced-studies-528824,http://www.sissa.it/,,Europe
+407,Philipps University of Marburg,Germany,Marburg,47.2,http://www.usnews.com/education/best-global-universities/philipps-university-of-marburg-502174,http://www.uni-marburg.de/ ,,Europe
+407,Stellenbosch University,South Africa,Stellenbosch,47.2,http://www.usnews.com/education/best-global-universities/stellenbosch-university-500980,http://www.sun.ac.za/english,21849,Africa
+412,University College Cork,Ireland,Cork,47.1,http://www.usnews.com/education/best-global-universities/university-college-cork-502427,http://www.ucc.ie/en/ ,15805,Europe
+413,University of Technology Sydney,Australia,"Ultimo, New South Wales",46.9,http://www.usnews.com/education/best-global-universities/university-of-technology-sydney-505153,https://www.uts.edu.au/ ,,Asia and Pacific
+414,University of Bath,United Kingdom,Bath,46.8,http://www.usnews.com/education/best-global-universities/university-of-bath-506373,http://www.bath.ac.uk/,12830,Europe
+415,Polytechnic University of Catalonia,Spain,Barcelona,46.6,http://www.usnews.com/education/best-global-universities/polytechnic-university-of-catalonia-501701,http://www.upc.edu/?set_language=en,22893,Europe
+416,Aalborg University,Denmark,Aalborg,46.5,http://www.usnews.com/education/best-global-universities/aalborg-university-501276,http://www.en.aau.dk/ ,17422,Europe
+416,Keio University,Japan,"Minato-ku, Tokyo",46.5,http://www.usnews.com/education/best-global-universities/keio-university-500715,http://www.keio.ac.jp/,33751,Asia and Pacific
+416,Okayama University,Japan,"Kita-ku, Okayama City, Okayama",46.5,http://www.usnews.com/education/best-global-universities/okayama-university-504249,http://www.okayama-u.ac.jp/index_e.html,13035,Asia and Pacific
+416,University of Eastern Finland,Finland,Joensuu,46.5,http://www.usnews.com/education/best-global-universities/university-of-eastern-finland-504471,http://www.uef.fi/en ,10798,Europe
+420,ENS de Lyon,France,Lyon,46.4,http://www.usnews.com/education/best-global-universities/ens-de-lyon-503874,http://www.ens-lyon.eu/ecole-normale-superieure-de-lyon-accueil-77247.kjsp ,2218,Europe
+420,University of Guelph,Canada,"Guelph, Ontario",46.4,http://www.usnews.com/education/best-global-universities/university-of-guelph-499974,http://www.uoguelph.ca/,21643,North America
+422,Universitie de Rennes 1,France,Rennes,46.3,http://www.usnews.com/education/best-global-universities/universite-de-rennes-1-504447,https://www.univ-rennes1.fr/ ,,Europe
+422,Universiti Malaya,Malaysia,"Kuala Lumpur, Kuala Lumpur",46.3,http://www.usnews.com/education/best-global-universities/universiti-malaya-501730,http://www.um.edu.my/,21045,Asia and Pacific
+422,University of Alabama--Tuscaloosa,United States,"Tuscaloosa, AL",46.3,http://www.usnews.com/education/best-global-universities/university-of-alabama-tuscaloosa-100751,http://www.ua.edu,30583,North America
+422,University of Potsdam,Germany,Potsdam,46.3,http://www.usnews.com/education/best-global-universities/university-of-potsdam-505430,http://www.uni-potsdam.de/en/university-of-potsdam.html,,Europe
+426,Bielefeld University,Germany,Bielefeld,46.2,http://www.usnews.com/education/best-global-universities/bielefeld-university-504564,http://www.uni-bielefeld.de/(en)/,21428,Europe
+427,Linkoping University,Sweden,Linkoping,46.1,http://www.usnews.com/education/best-global-universities/linkoping-university-503497,http://www.liu.se/?l=en,17866,Europe
+427,National Central University,Taiwan,"Jhongli City, Taoyuan County",46.1,http://www.usnews.com/education/best-global-universities/national-central-university-504757,http://www.ncu.edu.tw/?hl=en,10915,Asia and Pacific
+427,Pontificia Universidad Catolica de Chile,Chile,Santiago,46.1,http://www.usnews.com/education/best-global-universities/pontificia-universidad-catolica-de-chile-506168,http://www.uc.cl/ ,25075,South/Latin America
+427,University of Texas--Arlington,United States,"Arlington, TX",46.1,http://www.usnews.com/education/best-global-universities/university-of-texas-arlington-228769,http://www.uta.edu,29396,North America
+427,University of Udine,Italy,Udine,46.1,http://www.usnews.com/education/best-global-universities/university-of-udine-504338,http://www.uniud.it/,,Europe
+432,Aristotle University of Thessaloniki,Greece,Thessaloniki,46,http://www.usnews.com/education/best-global-universities/aristotle-university-of-thessaloniki-506056,http://www.auth.gr/en ,46288,Europe
+432,Hanyang University,South Korea,Seoul,46,http://www.usnews.com/education/best-global-universities/hanyang-university-500484,http://www.hanyang.ac.kr/english/,16729,Asia and Pacific
+434,National Chiao Tung University,Taiwan,Hsinchu,45.9,http://www.usnews.com/education/best-global-universities/national-chiao-tung-university-502912,http://www.nctu.edu.tw/index.php/en,12646,Asia and Pacific
+435,Sharif University of Technology,Iran,Tehran,45.8,http://www.usnews.com/education/best-global-universities/sharif-university-of-technology-502898,http://www.sharif.ir/web/en/home ,10977,Asia and Pacific
+435,University of Crete,Greece,"Rethymnon, Crete",45.8,http://www.usnews.com/education/best-global-universities/university-of-crete-501556,http://www.en.uoc.gr/,14650,Europe
+435,University of KwaZulu-Natal,South Africa,Durban,45.8,http://www.usnews.com/education/best-global-universities/university-of-kwazulu-natal-504296,http://www.ukzn.ac.za/,30572,Africa
+438,University of Catania,Italy,Catania,45.7,http://www.usnews.com/education/best-global-universities/university-of-catania-504106,http://www.unict.it/en/ ,,Europe
+438,University of Surrey,United Kingdom,Surrey,45.7,http://www.usnews.com/education/best-global-universities/university-of-surrey-505401,http://www.surrey.ac.uk/,12063,Europe
+440,Central South University,China,"Changsha, Hunan",45.6,http://www.usnews.com/education/best-global-universities/central-south-university-501467,http://iecd.csu.edu.cn/en-US/,53595,Asia and Pacific
+440,Saarland University,Germany,Saarbrucken,45.6,http://www.usnews.com/education/best-global-universities/saarland-university-504282,http://www.uni-saarland.de/en/ ,,Europe
+442,Indian Institute of Technology Bombay,India,"Mumbai, Maharashtra",45.5,http://www.usnews.com/education/best-global-universities/indian-institute-of-technology-bombay-501259,http://www.iitb.ac.in/ ,8327,Asia and Pacific
+442,Texas Tech University,United States,"Lubbock, TX",45.5,http://www.usnews.com/education/best-global-universities/texas-tech-university-229115,http://www.ttu.edu,29512,North America
+444,Northern Illinois University,United States,"DeKalb, IL",45.4,http://www.usnews.com/education/best-global-universities/northern-illinois-university-147703,http://www.niu.edu/,18665,North America
+444,Sichuan University,China,"Chengdu, Sichuan",45.4,http://www.usnews.com/education/best-global-universities/sichuan-university-506145,http://www.scu.edu.cn/en/ ,65035,Asia and Pacific
+444,University of South Australia,Australia,"Adelaide, South Australia",45.4,http://www.usnews.com/education/best-global-universities/university-of-south-australia-506290,http://www.unisa.edu.au/ ,18971,Asia and Pacific
+447,Lanzhou University,China,"Lanzhou, Gansu",45.3,http://www.usnews.com/education/best-global-universities/lanzhou-university-502794,http://en.lzu.edu.cn/,,Asia and Pacific
+447,University of the Basque Country,Spain,"Leioa, Bizkaia",45.3,http://www.usnews.com/education/best-global-universities/university-of-basque-country-502718,http://www.ehu.eus/en/en-home,46373,Europe
+447,University of Zaragoza,Spain,"Zaragoza, Aragon",45.3,http://www.usnews.com/education/best-global-universities/university-of-zaragoza-502343,http://www.unizar.es/EN,31046,Europe
+450,Kobe University,Japan,"Nada-ku, Kobe, Hyogo",45.2,http://www.usnews.com/education/best-global-universities/kobe-university-504263,http://www.kobe-u.ac.jp/en/,15885,Asia and Pacific
+450,Louisiana State University--Baton Rouge,United States,"Baton Rouge, LA",45.2,http://www.usnews.com/education/best-global-universities/louisiana-state-university-159391,http://www.lsu.edu,28116,North America
+450,Roma Tre University,Italy,Rome,45.2,http://www.usnews.com/education/best-global-universities/roma-tre-university-504483,http://www.uniroma3.it/,36442,Europe
+450,University of Konstanz,Germany,Konstanz,45.2,http://www.usnews.com/education/best-global-universities/university-of-konstanz-504712,http://www.uni-konstanz.de/en/welcome/ ,,Europe
+454,Medical University of Innsbruck,Austria,Innsbruck,45,http://www.usnews.com/education/best-global-universities/medical-university-of-innsbruck-505463,http://www.i-med.ac.at/,,Europe
+454,NUI Galway,Ireland,Galway,45,http://www.usnews.com/education/best-global-universities/national-university-of-ireland-nui-galway-505038,http://www.nuigalway.ie/,,Europe
+456,Tianjin University,China,Tianjin,44.9,http://www.usnews.com/education/best-global-universities/tianjin-university-503557,http://www.tju.edu.cn/english/ ,29693,Asia and Pacific
+457,Kyungpook National University,South Korea,Daegu,44.6,http://www.usnews.com/education/best-global-universities/kyungpook-national-university-506312,http://en.knu.ac.kr/,27152,Asia and Pacific
+457,Universidade do Minho,Portugal,Braga,44.6,http://www.usnews.com/education/best-global-universities/universidade-do-minho-506228,http://www.uminho.pt/en,19090,Europe
+459,Universidade Federal do Rio Grande do Sul,Brazil,"Porto Alegre, Rio Grande do Sul",44.5,http://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-grande-do-sul-500468,http://www.ufrgs.br/english/home,,South/Latin America
+459,University of the Andes Colombia,Colombia,"Bogota, DC",44.5,http://www.usnews.com/education/best-global-universities/university-of-the-andes-colombia-528846,http://www.uniandes.edu.co/,15773,South/Latin America
+461,Oklahoma State University,United States,"Stillwater, OK",44.4,http://www.usnews.com/education/best-global-universities/oklahoma-state-university-stillwater-207388,http://osu.okstate.edu,21925,North America
+461,University of Texas Medical Branch--Galveston,United States,"Galveston, TX",44.4,http://www.usnews.com/education/best-global-universities/university-of-texas-medical-branch-galveston-228653,http://www.utmb.edu/,,North America
+463,Tokyo Metropolitan University,Japan,"Hachioji-shi, Tokyo",44.3,http://www.usnews.com/education/best-global-universities/tokyo-metropolitan-university-505425,http://www.tmu.ac.jp/english/index.html,9303,Asia and Pacific
+463,University of Vermont,United States,"Burlington, VT",44.3,http://www.usnews.com/education/best-global-universities/university-of-vermont-231174,http://www.uvm.edu,11953,North America
+465,Eotvos Lorand University,Hungary,Budapest,44.2,http://www.usnews.com/education/best-global-universities/eotvos-lorand-university-505612,http://www.elte.hu/en ,,Europe
+465,Ewha Womans University,South Korea,Seoul,44.2,http://www.usnews.com/education/best-global-universities/ewha-womans-university-504624,http://www.ewha.ac.kr/mbs/ewhaen/,17625,Asia and Pacific
+465,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),Russia,Moscow,44.2,http://www.usnews.com/education/best-global-universities/national-research-nuclear-university-mephi-moscow-engineering-physics-institute-528842,http://www.mephi.ru/,7801,Europe
+465,Swinburne University of Technology,Australia,"Hawthorn, Victoria",44.2,http://www.usnews.com/education/best-global-universities/swinburne-university-of-technology-528823,http://www.swinburne.edu.au/,20314,Asia and Pacific
+465,University of Jyvaskyla,Finland,Jyvaskyla,44.2,http://www.usnews.com/education/best-global-universities/university-of-jyvaskyla-500627,https://www.jyu.fi/en/ ,9703,Europe
+465,University of Verona,Italy,Verona,44.2,http://www.usnews.com/education/best-global-universities/university-of-verona-503896,http://www.univr.it/,,Europe
+471,Georgia State University,United States,"Atlanta, GA",44.1,http://www.usnews.com/education/best-global-universities/georgia-state-university-139940,http://www.gsu.edu,26675,North America
+471,Universidade de Aveiro,Portugal,Aveiro,44.1,http://www.usnews.com/education/best-global-universities/universidade-de-aveiro-504426,http://www.ua.pt/#,10791,Europe
+473,Palacky University Olomouc,Czech Republic,Olomouc,44,http://www.usnews.com/education/best-global-universities/palacky-university-olomouc-506534,http://www.upol.cz/en/,18540,Europe
+473,Universidade Estadual Paulista,Brazil,Sao Paulo,44,http://www.usnews.com/education/best-global-universities/universidade-estadual-paulista-503331,http://www.unesp.br/ ,50594,South/Latin America
+473,University of Hannover,Germany,Hannover,44,http://www.usnews.com/education/best-global-universities/university-of-hannover-503676,http://www.uni-hannover.de/en/,22401,Europe
+473,University of Plymouth,United Kingdom,"Plymouth, Devon",44,http://www.usnews.com/education/best-global-universities/university-of-plymouth-500972,https://www.plymouth.ac.uk/,24121,Europe
+477,Beijing Institute of Technology,China,Beijing,43.9,http://www.usnews.com/education/best-global-universities/beijing-institute-of-technology-504704,http://english.bit.edu.cn/,27084,Asia and Pacific
+477,Medical University of Graz,Austria,Graz,43.9,http://www.usnews.com/education/best-global-universities/medical-university-of-graz-501562,https://www.medunigraz.at/en/,,Europe
+477,Universidade Nova de Lisboa,Portugal,Lisbon,43.9,http://www.usnews.com/education/best-global-universities/universidade-nova-de-lisboa-506121,http://www.unl.pt/,18867,Europe
+480,Saint Louis University,United States,"St. Louis, MO",43.8,http://www.usnews.com/education/best-global-universities/saint-louis-university-179159,http://www.slu.edu,13438,North America
+480,San Diego State University,United States,"San Diego, CA",43.8,http://www.usnews.com/education/best-global-universities/san-diego-state-university-122409,http://www.sdsu.edu,27420,North America
+482,Polytechnic University of Turin,Italy,Turin,43.7,http://www.usnews.com/education/best-global-universities/polytechnic-university-of-turin-502577,http://www.polito.it/?lang=en ,27709,Europe
+482,Universitie de Lille I,France,Villeneuve-d'Ascq,43.7,http://www.usnews.com/education/best-global-universities/universite-de-lille-i-500413,http://www.univ-lille1.fr/,,Europe
+482,University of Saskatchewan,Canada,"Saskatoon, Saskatchewan",43.7,http://www.usnews.com/education/best-global-universities/university-of-saskatchewan-499969,http://explore.usask.ca,19028,North America
+485,Polytechnic University of Valencia,Spain,Valencia,43.6,http://www.usnews.com/education/best-global-universities/polytechnic-university-of-valencia-501850,https://www.upv.es/index-en.html,21604,Europe
+485,St George's University of London,United Kingdom,London,43.6,http://www.usnews.com/education/best-global-universities/st-georges-university-london-502037,http://www.sgul.ac.uk/,2958,Europe
+485,University of Graz,Austria,Graz,43.6,http://www.usnews.com/education/best-global-universities/university-of-graz-505072,http://www.uni-graz.at/en/ ,20584,Europe
+485,Victoria University of Wellington,New Zealand,Wellington,43.6,http://www.usnews.com/education/best-global-universities/victoria-university-wellington-504111,http://www.victoria.ac.nz/,17142,Asia and Pacific
+489,King Saud University,Saudi Arabia,Riyadh,43.5,http://www.usnews.com/education/best-global-universities/king-saud-university-503764,http://ksu.edu.sa/en/,40666,Arab States
+489,Tilburg University,Netherlands,Tilburg,43.5,http://www.usnews.com/education/best-global-universities/tilburg-university-499980,http://www.tilburguniversity.edu/,7576,Europe
+491,Jiangnan University,China,"Wuxi, Jiangsu",43.4,http://www.usnews.com/education/best-global-universities/jiangnan-university-504800,http://english.jiangnan.edu.cn/,,Asia and Pacific
+491,University of Strathclyde,United Kingdom,"Glasgow, Scotland",43.4,http://www.usnews.com/education/best-global-universities/university-of-strathclyde-504736,http://www.strath.ac.uk/,15705,Europe
+491,University of Tartu,Estonia,Tartu,43.4,http://www.usnews.com/education/best-global-universities/university-of-tartu-502553,http://www.ut.ee/en ,10269,Europe
+494,Carleton University,Canada,"Ottowa, ON",43.3,http://www.usnews.com/education/best-global-universities/carleton-university-499991,http://carleton.ca/,,North America
+494,China University of Geosciences (Wuhan),China,"Wuhan, Hubei",43.3,http://www.usnews.com/education/best-global-universities/china-university-of-geosciences-wuhan-506930,http://en.cug.edu.cn/cug/index.asp,,Asia and Pacific
+494,Massey University,New Zealand,Palmerston North,43.3,http://www.usnews.com/education/best-global-universities/massey-university-503390,http://www.massey.ac.nz/massey/home.cfm,19101,Asia and Pacific
+494,University of Iceland,Iceland,Reykjavik,43.3,http://www.usnews.com/education/best-global-universities/university-of-iceland-528847,http://www.hi.is/,13960,Europe
+494,University of Oulu,Finland,Oulu,43.3,http://www.usnews.com/education/best-global-universities/university-of-oulu-502651,http://www.oulu.fi/english/,14056,Europe
+494,University of Tromso,Norway,Tromso,43.3,http://www.usnews.com/education/best-global-universities/university-of-tromso-500047,http://en.uit.no/startsida,10398,Europe
+494,University of Wisconsin--Milwaukee,United States,"Milwaukee, WI",43.3,http://www.usnews.com/education/best-global-universities/university-of-wisconsin-milwaukee-240453,http://www.uwm.edu,,North America
+501,Ben-Gurion University of the Negev,Israel,Beer-Sheva,43.2,http://www.usnews.com/education/best-global-universities/ben-gurion-university-of-the-negev-501902,http://in.bgu.ac.il/en/Pages/default.aspx ,16695,Europe
+501,Loughborough University,United Kingdom,"Loughborough, Leicestershire",43.2,http://www.usnews.com/education/best-global-universities/loughborough-university-506503,http://www.lboro.ac.uk/,13951,Europe
+501,Medical College of Wisconsin,United States,"Milwaukee, WI",43.2,http://www.usnews.com/education/best-global-universities/medical-college-of-wisconsin-239169,http://www1.mcw.edu/MCW,1088,North America
+501,University of Louisville,United States,"Louisville, KY",43.2,http://www.usnews.com/education/best-global-universities/university-of-louisville-157289,http://www.louisville.edu,18130,North America
+505,Comenius University in Bratislava,Slovakia,Bratislava,43.1,http://www.usnews.com/education/best-global-universities/comenius-university-in-bratislava-500702,http://staryweb.uniba.sk/,20879,Europe
+505,University of Cyprus,Cyprus,Nicosia,43.1,http://www.usnews.com/education/best-global-universities/university-of-cyprus-528848,http://www.ucy.ac.cy/en/,,Europe
+507,Beihang University,China,Beijing,43,http://www.usnews.com/education/best-global-universities/beihang-university-502158,http://ev.buaa.edu.cn/index.htm ,,Asia and Pacific
+507,University of Fribourg,Switzerland,Fribourg,43,http://www.usnews.com/education/best-global-universities/university-of-fribourg-528849,http://www.unifr.ch/home/welcomeE.php,,Europe
+507,University of Sevilla,Spain,Seville,43,http://www.usnews.com/education/best-global-universities/university-of-sevilla-502822,http://www.us.es/eng,64931,Europe
+507,Western Sydney University,Australia,"Penrith, NSW",43,http://www.usnews.com/education/best-global-universities/university-of-western-sydney-506826,http://www.uws.edu.au/,30704,Asia and Pacific
+511,Suzhou University,China,Suzhou,42.9,http://www.usnews.com/education/best-global-universities/suzhou-university-506714,http://eng.suda.edu.cn/,,Asia and Pacific
+511,University of Bayreuth,Germany,Bayreuth,42.9,http://www.usnews.com/education/best-global-universities/university-of-bayreuth-500728,http://www.en.uni-bayreuth.de/home/index.html ,,Europe
+513,Ege University,Turkey,Izmir,42.8,http://www.usnews.com/education/best-global-universities/ege-university-500691,http://ege.edu.tr/index.php?lid=2&SayfaID=641&cat=details,,Europe
+513,University of Modena and Reggio Emilia,Italy,Modena,42.8,http://www.usnews.com/education/best-global-universities/universita-di-modena-e-reggio-emilia-501966,http://www.unimore.it/en,,Europe
+515,Cairo University,Egypt,Giza,42.7,http://www.usnews.com/education/best-global-universities/cairo-university-501834,http://cu.edu.eg/Home ,230907,Arab States
+515,East China University of Science and Technology,China,Shanghai,42.7,http://www.usnews.com/education/best-global-universities/east-china-university-of-science-and-technology-505997,http://www.ecust.edu.cn/s/2/t/209/main.htm ,27140,Asia and Pacific
+515,Kyung Hee University,South Korea,Seoul,42.7,http://www.usnews.com/education/best-global-universities/kyung-hee-university-501161,http://www.khu.ac.kr/main.do,24356,Asia and Pacific
+515,Saint Petersburg State University,Russia,St Petersburg,42.7,http://www.usnews.com/education/best-global-universities/saint-petersburg-state-university-502182,http://eng.spbu.ru/,,Europe
+515,University of Rostock,Germany,Rostock,42.7,http://www.usnews.com/education/best-global-universities/university-of-rostock-500634,http://www.uni-rostock.de/,,Europe
+520,Hong Kong Baptist University,Hong Kong,,42.6,http://www.usnews.com/education/best-global-universities/hong-kong-baptist-university-502544,http://buwww.hkbu.edu.hk/eng/main/index.jsp,10441,Asia and Pacific
+521,Gwangju Institute of Science and Technology,South Korea,"Gwangju, Gyeonggi",42.4,http://www.usnews.com/education/best-global-universities/gwangju-institute-of-science-and-technology-506847,http://ewww.gist.ac.kr/,1394,Asia and Pacific
+522,Chiba University,Japan,"Chiba-shi, Chiba",42.2,http://www.usnews.com/education/best-global-universities/chiba-university-503793,http://www.chiba-u.ac.jp/e/,14554,Asia and Pacific
+522,National University of La Plata,Argentina,Buenos Aires,42.2,http://www.usnews.com/education/best-global-universities/national-university-of-la-plata-502752,http://www.unlp.edu.ar/,,South/Latin America
+522,University of Alaska--Fairbanks,United States,"Fairbanks, AK",42.2,http://www.usnews.com/education/best-global-universities/university-of-alaska-fairbanks-102614,http://www.uaf.edu,3837,North America
+522,University of Montana,United States,"Missoula, MT",42.2,http://www.usnews.com/education/best-global-universities/university-of-montana-180489,http://www.umt.edu,12470,North America
+526,Bar-Ilan University,Israel,Ramat Gan,42.1,http://www.usnews.com/education/best-global-universities/bar-ilan-university-505206,http://www1.biu.ac.il/index.php,17503,Europe
+526,Universidade do Estado do Rio de Janeiro,Brazil,"Maracana, Rio de Janeiro",42.1,http://www.usnews.com/education/best-global-universities/universidade-do-estado-do-rio-de-janeiro-502771,http://www.uerj.br/ ,,South/Latin America
+526,University of Ioannina,Greece,Ioannina,42.1,http://www.usnews.com/education/best-global-universities/university-of-ioannina-501360,http://www.uoi.gr/en/,,Europe
+529,Mahidol University,Thailand,"Salaya, Nakhon Pathom",42,http://www.usnews.com/education/best-global-universities/mahidol-university-503481,http://www.mahidol.ac.th/en/,27402,Asia and Pacific
+529,Swansea University,United Kingdom,"Swansea, Wales",42,http://www.usnews.com/education/best-global-universities/swansea-university-505583,http://www.swansea.ac.uk/,12801,Europe
+529,University of Navarra,Spain,Pamplona,42,http://www.usnews.com/education/best-global-universities/university-of-navarra-500141,http://www.unav.edu/,11259,Europe
+532,College of William and Mary,United States,"Williamsburg, VA",41.9,http://www.usnews.com/education/best-global-universities/college-william-mary-231624,www.sm.edu,7867,North America
+532,Shanghai University,China,Shanghai,41.9,http://www.usnews.com/education/best-global-universities/shanghai-university-504274,http://en.shu.edu.cn/Default.aspx ,46044,Asia and Pacific
+532,University of Maryland--Baltimore County,United States,"Baltimore, MD",41.9,http://www.usnews.com/education/best-global-universities/university-of-maryland-baltimore-county-163268,https://www.umbc.edu,13908,North America
+535,RMIT University,Australia,"Melbourne, VIC",41.8,http://www.usnews.com/education/best-global-universities/royal-melbourne-institute-of-technology-rmit-503858,https://www.rmit.edu.au/,29501,Asia and Pacific
+535,Universidad de Chile,Chile,Santiago,41.8,http://www.usnews.com/education/best-global-universities/universidad-de-chile-502207,http://www.uchile.cl/english ,29207,South/Latin America
+535,University of Cagliari,Italy,Cagliari,41.8,http://www.usnews.com/education/best-global-universities/university-of-cagliari-506894,http://www.unica.it/,,Europe
+538,University of Nantes,France,Nantes,41.7,http://www.usnews.com/education/best-global-universities/university-of-nantes-501104,http://www.univ-nantes.fr/english,,Europe
+538,University of Texas--San Antonio,United States,"San Antonio, TX",41.7,http://www.usnews.com/education/best-global-universities/university-of-texas-at-san-antonio-utsa-229027,http://www.utsa.edu,27520,North America
+540,Pusan National University,South Korea,Busan,41.6,http://www.usnews.com/education/best-global-universities/pusan-national-university-501725,http://english.pusan.ac.kr/uPNU_homepage/en/,24929,Asia and Pacific
+540,Rush University,United States,"Chicago, IL",41.6,http://www.usnews.com/education/best-global-universities/rush-university-148511,http://www.rushu.rush.edu,,North America
+540,Vilnius University,Lithuania,Vilnius,41.6,http://www.usnews.com/education/best-global-universities/vilnius-university-503315,http://www.vu.lt/,19019,Europe
+543,Chonnam National University,South Korea,"Gwangju, Gyeonggi",41.5,http://www.usnews.com/education/best-global-universities/chonnam-national-university-503755,http://global.jnu.ac.kr/jnumain.aspx,35779,Asia and Pacific
+543,University of Ferrara,Italy,Ferrara,41.5,http://www.usnews.com/education/best-global-universities/university-of-ferrara-503123,http://unife.it/,18882,Europe
+545,Martin Luther University of Halle-Wittenberg,Germany,Halle (Saale),41.4,http://www.usnews.com/education/best-global-universities/martin-luther-university-halle-wittenberg-502747,http://www.uni-halle.de/,,Europe
+545,University of Parma,Italy,Parma,41.4,http://www.usnews.com/education/best-global-universities/university-of-parma-501495,http://en.unipr.it/,,Europe
+547,Hunan University,China,,41.2,http://www.usnews.com/education/best-global-universities/hunan-university-505375,http://www.hnu.edu.cn/,42756,Asia and Pacific
+547,Isfahan University of Technology,Iran,Isfahan,41.2,http://www.usnews.com/education/best-global-universities/isfahan-university-of-technology-502590,http://www.iut.ac.ir/en/ ,10964,Asia and Pacific
+549,University of Wyoming,United States,"Laramie, WY",41.1,http://www.usnews.com/education/best-global-universities/university-of-wyoming-240727,http://www.uwyo.edu,11061,North America
+550,Indian Institute of Technology Delhi,India,New Delhi,41,http://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-delhi-500856,http://www.iitd.ac.in/,7399,Asia and Pacific
+550,University of Pretoria,South Africa,Hatfield,41,http://www.usnews.com/education/best-global-universities/university-of-pretoria-501543,http://web.up.ac.za/,37314,Africa
+552,Bangor University,United Kingdom,"Bangor, Gwynedd",40.9,http://www.usnews.com/education/best-global-universities/bangor-university-528852,http://www.bangor.ac.uk/,9567,Europe
+552,National Technical University of Athens,Greece,Athens,40.9,http://www.usnews.com/education/best-global-universities/national-technical-university-of-athens-505449,http://www.ntua.gr/index_en.html,,Europe
+552,University of Bodenkultur Wien,Austria,Wien,40.9,http://www.usnews.com/education/best-global-universities/university-of-bodenkultur-wien-501157,http://www.boku.ac.at/en/,,Europe
+552,University of Calabria,Italy,Arcavacata di Rende,40.9,http://www.usnews.com/education/best-global-universities/university-of-calabria-505594,http://www.unical.it/portale/,,Europe
+552,University of Split,Croatia,Split,40.9,http://www.usnews.com/education/best-global-universities/university-of-split-528851,http://www.unist.hr/,,Europe
+557,Open University,United Kingdom,"Milton Keynes, Buckinghamshire",40.8,http://www.usnews.com/education/best-global-universities/open-university-uk-506455,http://www.open.ac.uk/,76683,Europe
+557,Universiti Sains Malaysia,Malaysia,Penang,40.8,http://www.usnews.com/education/best-global-universities/universiti-sains-malaysia-500843,https://www.usm.my/index.php/en/,,Asia and Pacific
+557,West Virginia University,United States,"Morgantown, WV",40.8,http://www.usnews.com/education/best-global-universities/west-virginia-university-238032,http://www.wvu.edu,27316,North America
+560,Istanbul University,Turkey,Istanbul,40.7,http://www.usnews.com/education/best-global-universities/istanbul-university-502403,http://www.istanbul.edu.tr/english/,82096,Europe
+560,Universitatea Babeş-Bolyai,Romania,Cluj-Napoca,40.7,http://www.usnews.com/education/best-global-universities/universitatea-babes-bolyai-504529,http://www.ubbcluj.ro/en/,37915,Europe
+562,Ankara University,Turkey,Ankara,40.6,http://www.usnews.com/education/best-global-universities/ankara-university-503075,http://en.ankara.edu.tr/,60061,Europe
+562,University of Arkansas,United States,"Fayetteville, AR",40.6,http://www.usnews.com/education/best-global-universities/university-of-arkansas-fayetteville-106397,http://www.uark.edu,22819,North America
+562,University of Burgundy,France,Dijon,40.6,http://www.usnews.com/education/best-global-universities/university-of-bourgogne-dijon-505886,http://en.u-bourgogne.fr/,,Europe
+562,University of Johannesburg,South Africa,Johannesburg,40.6,http://www.usnews.com/education/best-global-universities/university-of-johannesburg-528854,http://www.uj.ac.za/EN/Pages/Home.aspx,,Africa
+562,University of Salento,Italy,Lecce,40.6,http://www.usnews.com/education/best-global-universities/university-of-salento-528853,http://www.unisalento.it/web/guest/home_page,,Europe
+567,Clemson University,United States,"Clemson, SC",40.5,http://www.usnews.com/education/best-global-universities/clemson-university-217882,http://www.clemson.edu,19198,North America
+568,Flinders University,Australia,Bedford Park,40.4,http://www.usnews.com/education/best-global-universities/flinders-university-south-australia-504837,http://www.flinders.edu.au/,15655,Asia and Pacific
+568,Loyola University Chicago,United States,"Chicago, IL",40.4,http://www.usnews.com/education/best-global-universities/loyola-university-chicago-146719,http://www.luc.edu,14232,North America
+568,Universidade Federal de Sao Paulo,Brazil,Sao Paulo,40.4,http://www.usnews.com/education/best-global-universities/universidade-federal-de-sao-paulo-501953,http://www.unifesp.br/ ,,South/Latin America
+568,Universitat de les Illes Balears,Spain,"Palma de Mallorca, Islas Baleares",40.4,http://www.usnews.com/education/best-global-universities/universitat-de-les-illes-balears-528855,http://www.uib.cat/,,Europe
+572,Indian Institute of Technology Madras,India,"Chennai, Tamil Nadu",40.3,http://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-madras-502278,https://www.iitm.ac.in/,8234,Asia and Pacific
+572,University of Electronic Science and Technology of China,China,"Chengdu, Sichuan",40.3,http://www.usnews.com/education/best-global-universities/university-of-electronic-science-and-technology-of-china-506780,http://en.uestc.edu.cn,,Asia and Pacific
+572,University of New Hampshire,United States,"Durham, NH",40.3,http://www.usnews.com/education/best-global-universities/university-of-new-hampshire-183044,http://www.unh.edu,14231,North America
+572,University of Salerno,Italy,Fisciano,40.3,http://www.usnews.com/education/best-global-universities/university-of-salerno-502531,http://web.unisa.it/home,,Europe
+576,Union School of Public Health - Peking Union Medical College,China,Beijing,40.2,http://www.usnews.com/education/best-global-universities/union-school-of-public-health-peking-union-medical-college-502264,http://www.pumc.edu.cn/,,Asia and Pacific
+576,University of Brescia,Italy,Brescia,40.2,http://www.usnews.com/education/best-global-universities/university-of-brescia-502286,http://en.unibs.it/,,Europe
+576,University of Essex,United Kingdom,"Colchester, Essex",40.2,http://www.usnews.com/education/best-global-universities/university-of-essex-502672,http://www.essex.ac.uk/,10286,Europe
+579,Chulalongkorn University,Thailand,Bangkok,40.1,http://www.usnews.com/education/best-global-universities/chulalongkorn-university-505636,http://www.chula.ac.th/en/,38719,Asia and Pacific
+579,Graz University of Technology,Austria,Graz,40.1,http://www.usnews.com/education/best-global-universities/graz-university-of-technology-506184,http://portal.tugraz.at/portal/page/portal/TU_Graz,,Europe
+579,University of Quebec Montreal,Canada,"Montreall, Quebec",40.1,http://www.usnews.com/education/best-global-universities/university-of-quebec-montreal-504868,http://www.uqam.ca/,27046,North America
+582,La Trobe University,Australia,"Melbourne, VIC",40,http://www.usnews.com/education/best-global-universities/la-trobe-university-501305,http://www.latrobe.edu.au/,22037,Asia and Pacific
+582,Universitat de Girona,Spain,Girona,40,http://www.usnews.com/education/best-global-universities/universitat-de-girona-528856,http://www.udg.edu/,,Europe
+582,University of Texas Southwestern Medical Center--Dallas,United States,"Dallas, TX",40,http://www.usnews.com/education/best-global-universities/university-of-texas-southwestern-medical-center-dallas-228635,http://www.utsouthwestern.edu/,,North America
+585,Tokyo Medical and Dental University,Japan,"Bunkyo-ku, Tokyo",39.9,http://www.usnews.com/education/best-global-universities/tokyo-medical-and-dental-university-505893,http://www.tmd.ac.jp/english/,2872,Asia and Pacific
+585,University of Debrecen,Hungary,Debrecen,39.9,http://www.usnews.com/education/best-global-universities/university-of-debrecen-504230,http://www.unideb.hu/portal/en,,Europe
+585,University of Oviedo,Spain,"Oviedo, Asturias",39.9,http://www.usnews.com/education/best-global-universities/university-of-oviedo-503830,http://www.uniovi.es/,,Europe
+588,Auburn University,United States,"Auburn, AL",39.8,http://www.usnews.com/education/best-global-universities/auburn-university-100858,http://www.auburn.edu,22386,North America
+588,Braunschweig University of Technology,Germany,Braunschweig,39.8,http://www.usnews.com/education/best-global-universities/braunschweig-university-of-technology-505131,https://www.tu-braunschweig.de/,,Europe
+588,Catholic University of the Sacred Heart,Italy,Milan,39.8,http://www.usnews.com/education/best-global-universities/catholic-university-of-the-sacred-heart-503167,http://www.unicatt.it/ ,30304,Europe
+588,University of Bucharest,Romania,Bucharest,39.8,http://www.usnews.com/education/best-global-universities/university-of-bucharest-501581,http://www.unibuc.ro/e/,31806,Europe
+588,University of Portsmouth,United Kingdom,Portsmouth,39.8,http://www.usnews.com/education/best-global-universities/university-of-portsmouth-505745,http://www.port.ac.uk/,20161,Europe
+588,University of Rovira i Virgili,Spain,Tarragona,39.8,http://www.usnews.com/education/best-global-universities/universitat-rovira-i-virgili-506486,http://www.urv.cat/en_index.html,12533,Europe
+594,Aligarh Muslim University,India,Aligarh,39.7,http://www.usnews.com/education/best-global-universities/aligarh-muslim-university-528840,http://www.amu.ac.in/,,Asia and Pacific
+594,University of Kent,United Kingdom,"Canterbury, Kent",39.7,http://www.usnews.com/education/best-global-universities/university-of-kent-500018,https://www.kent.ac.uk/,17638,Europe
+596,Gyeongsang National University,South Korea,"Jinju City, South Gyeongsang",39.6,http://www.usnews.com/education/best-global-universities/gyeongsang-national-university-500897,http://eng.gnu.ac.kr/main/,,Asia and Pacific
+596,Lehigh University,United States,"Bethlehem, PA",39.6,http://www.usnews.com/education/best-global-universities/lehigh-university-213543,http://www.lehigh.edu,6300,North America
+596,Shinshu University,Japan,"Matsumoto City, Nagano Prefecture",39.6,http://www.usnews.com/education/best-global-universities/shinshu-university-505095,http://www.shinshu-u.ac.jp/english/,,Asia and Pacific
+599,Amirkabir University of Technology,Iran,Tehran,39.5,http://www.usnews.com/education/best-global-universities/amirkabir-university-of-technology-506266,http://www.aut.ac.ir/aut/fa/,,Asia and Pacific
+599,Indian Institute of Technology Kanpur,India,"Kanpur, Uttar Pradesh",39.5,http://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-kanpur-506622,http://www.iitk.ac.in/,6167,Asia and Pacific
+599,University of Tampere,Finland,Tampere,39.5,http://www.usnews.com/education/best-global-universities/university-of-tampere-501054,http://www.uta.fi/en/,10045,Europe
+602,Donghua University,China,Shanghai,39.4,http://www.usnews.com/education/best-global-universities/donghua-university-500299,http://english.dhu.edu.cn/,,Asia and Pacific
+602,Ernst Moritz Arndt Universitat Greifswald,Germany,Greifswald,39.4,http://www.usnews.com/education/best-global-universities/ernst-moritz-arndt-universitat-greifswald-501842,http://www.uni-greifswald.de/,,Europe
+602,Indian Institute of Technology Kharagpur,India,Kharagpur,39.4,http://www.usnews.com/education/best-global-universities/indian-institute-of-technology-kharagpur-500533,http://www.iitkgp.ac.in/ ,9928,Asia and Pacific
+602,University of Zagreb,Croatia,Zagreb,39.4,http://www.usnews.com/education/best-global-universities/university-of-zagreb-502783,http://www.unizg.hr/homepage/about-university/ ,,Europe
+606,Hacettepe University,Turkey,Ankara,39.3,http://www.usnews.com/education/best-global-universities/hacettepe-university-505298,https://www.hacettepe.edu.tr/english/,39606,Europe
+606,Old Dominion University,United States,"Norfolk, VA",39.3,http://www.usnews.com/education/best-global-universities/old-dominion-university-232982,http://www.odu.edu,20748,North America
+606,University Hohenheim,Germany,Stuttgart,39.3,http://www.usnews.com/education/best-global-universities/university-hohenheim-502293,https://www.uni-hohenheim.de/english,,Europe
+609,Kent State University,United States,"Kent, OH",39.2,http://www.usnews.com/education/best-global-universities/kent-state-university-203517,http://www.kent.edu,23122,North America
+610,Chonbuk National University,South Korea,"Jeonju, Jeollabuk",39.1,http://www.usnews.com/education/best-global-universities/chonbuk-national-university-503088,http://en.jbnu.ac.kr/main/main.php,23270,Asia and Pacific
+610,University of Delhi,India,New Delhi,39.1,http://www.usnews.com/education/best-global-universities/university-of-delhi-504916,http://www.du.ac.in/du/ ,,Asia and Pacific
+612,Heriot Watt University,United Kingdom,"Edinburgh, Scotland",39,http://www.usnews.com/education/best-global-universities/heriot-watt-university-506192,http://www.hw.ac.uk/,8773,Europe
+612,Tehran University of Medical Sciences,Iran,Tehran,39,http://www.usnews.com/education/best-global-universities/tehran-university-of-medical-sciences-503294,http://www.tums.ac.ir/?lang=en,13912,Asia and Pacific
+614,Institut National des Sciences Appliquées de Lyon,France,Villeurbanne,38.9,http://www.usnews.com/education/best-global-universities/institut-national-des-sciences-appliquees-insa-lyon-505713,http://www.insa-lyon.fr/,,Europe
+614,Ohio University,United States,"Athens, OH",38.9,http://www.usnews.com/education/best-global-universities/ohio-university-204857,http://www.ohio.edu,22602,North America
+616,Central China Normal University,China,"Wuhan, Hubei",38.8,http://www.usnews.com/education/best-global-universities/central-china-normal-university-501632,http://www.ccnu.edu.cn/,,Asia and Pacific
+616,Nanjing Agricultural University,China,"Nanjing, Jiangsu",38.8,http://www.usnews.com/education/best-global-universities/nanjing-agricultural-university-506399,http://english.njau.edu.cn/ ,,Asia and Pacific
+616,University of Lubeck,Germany,Lubeck,38.8,http://www.usnews.com/education/best-global-universities/university-of-lubeck-528857,https://www.uni-luebeck.de/universitaet/universitaet.html,,Europe
+619,Polytechnic University of Madrid,Spain,Madrid,38.7,http://www.usnews.com/education/best-global-universities/polytechnic-university-of-madrid-500155,http://www.upm.es/institucional,41500,Europe
+619,Universidad de la Laguna,Spain,La Laguna,38.7,http://www.usnews.com/education/best-global-universities/universidad-de-la-laguna-502362,http://www.ull.es/view/institucional/ull/Inicio/en/True,,Europe
+621,Université Paris Nord- Paris XIII,France,Villetaneuse,38.6,http://www.usnews.com/education/best-global-universities/university-of-paris-nord-paris-xiii-528858,http://www.univ-paris13.fr/,,Europe
+622,Masaryk University,Czech Republic,Brno,38.5,http://www.usnews.com/education/best-global-universities/masaryk-university-brno-506917,https://www.muni.cz/,40898,Europe
+622,University of Missouri--Kansas City,United States,"Kansas City, MO",38.5,http://www.usnews.com/education/best-global-universities/university-of-missouri-kansas-city-178402,http://www.umkc.edu,,North America
+624,University of Salamanca,Spain,Salamanca,38.4,http://www.usnews.com/education/best-global-universities/university-of-salamanca-502705,http://www.usal.es/webusal/en,31035,Europe
+625,Banaras Hindu University,India,"Varanasi, Uttar Pradesh",38.3,http://www.usnews.com/education/best-global-universities/banaras-hindu-university-503462,http://www.bhu.ac.in/,,Asia and Pacific
+626,Brigham Young University--Provo,United States,"Provo, UT",38.2,http://www.usnews.com/education/best-global-universities/brigham-young-university-230038,http://www.byu.edu,31939,North America
+626,National Sun Yat-sen University,Taiwan,Kaohsiung,38.2,http://www.usnews.com/education/best-global-universities/national-sun-yat-sen-university-505080,http://www.nsysu.edu.tw/bin/home.php?Lang=en,9336,Asia and Pacific
+626,University of Nevada--Reno,United States,"Reno, NV",38.2,http://www.usnews.com/education/best-global-universities/university-of-nevada-reno-182290,http://www.unr.edu,15470,North America
+626,University of Sherbrooke,Canada,"Sherbrooke, Quebec",38.2,http://www.usnews.com/education/best-global-universities/university-of-sherbrooke-506839,http://www.usherbrooke.ca/,13438,North America
+626,Utah State University,United States,"Logan, UT",38.2,http://www.usnews.com/education/best-global-universities/utah-state-university-230728,http://www.usu.edu,21403,North America
+631,University of Hull,United Kingdom,Hull,38.1,http://www.usnews.com/education/best-global-universities/university-of-hull-505254,http://www2.hull.ac.uk/,15141,Europe
+632,Osaka City University,Japan,Osaka,37.9,http://www.usnews.com/education/best-global-universities/osaka-city-university-504225,http://www.osaka-cu.ac.jp/ja,8604,Asia and Pacific
+632,University of Idaho,United States,"Moscow, ID",37.9,http://www.usnews.com/education/best-global-universities/university-of-idaho-142285,http://www.uidaho.edu/admissions,11641,North America
+632,University of Rhode Island,United States,"Kingston, RI",37.9,http://www.usnews.com/education/best-global-universities/university-of-rhode-island-217484,http://www.uri.edu,14806,North America
+635,Liverpool John Moores University,United Kingdom,Liverpool,37.8,http://www.usnews.com/education/best-global-universities/liverpool-john-moores-university-504028,https://www.ljmu.ac.uk/,18513,Europe
+635,Warsaw University of Technology,Poland,Warsaw,37.8,http://www.usnews.com/education/best-global-universities/warsaw-university-of-technology-502920,http://www.pw.edu.pl/,,Europe
+635,Wuhan University of Technology,China,"Wuhan, Hubei",37.8,http://www.usnews.com/education/best-global-universities/wuhan-university-of-technology-506361,http://english.whut.edu.cn/,50260,Asia and Pacific
+638,Universiti Putra Malaysia,Malaysia,"Serdang, Selangor",37.6,http://www.usnews.com/education/best-global-universities/universiti-putra-malaysia-500789,http://www.upm.edu.my/?LANG=en,23883,Asia and Pacific
+638,University of Mons,Belgium,Mons,37.6,http://www.usnews.com/education/best-global-universities/university-of-mons-528860,http://portail.umons.ac.be/EN2/Pages/default.aspx,,Europe
+640,Otto von Guericke University,Germany,Magdeburg,37.5,http://www.usnews.com/education/best-global-universities/otto-von-guericke-university-528861,http://www.ovgu.de/,,Europe
+640,Universidade Federal de Santa Catarina,Brazil,Florianopolis,37.5,http://www.usnews.com/education/best-global-universities/universidade-federal-de-santa-catarina-ufsc-500204,http://en.ufsc.br/,,South/Latin America
+640,University of Haifa,Israel,Haifa,37.5,http://www.usnews.com/education/best-global-universities/university-of-haifa-501200,http://www.haifa.ac.il/index.php/en/,,Europe
+640,University of Vigo,Spain,"Vigo, Pontevedra",37.5,http://www.usnews.com/education/best-global-universities/university-of-vigo-505924,http://www.uvigo.es/,21236,Europe
+644,Norwegian University of Life Sciences,Norway,As,37.4,http://www.usnews.com/education/best-global-universities/norwegian-university-of-life-sciences-528819,http://www.nmbu.no/en,,Europe
+644,University of Regina,Canada,"Regina, SK",37.4,http://www.usnews.com/education/best-global-universities/university-of-regina-499970,http://www.uregina.ca/,,North America
+646,Universiti Teknologi Malaysia,Malaysia,Johor,37.3,http://www.usnews.com/education/best-global-universities/universiti-teknologi-malaysia-528827,http://www.utm.my/,22893,Asia and Pacific
+647,Chongqing University,China,Chongqing,37.2,http://www.usnews.com/education/best-global-universities/chongqing-university-505768,http://international.cqu.edu.cn/,,Asia and Pacific
+647,Cranfield University,United Kingdom,"Cranfield, Bedfordshire",37.2,http://www.usnews.com/education/best-global-universities/cranfield-university-500995,http://www.cranfield.ac.uk/,2790,Europe
+647,University of Kansas Medical Center,United States,"Kansas City, KS",37.2,http://www.usnews.com/education/best-global-universities/university-of-kansas-medical-center-503138,http://www.kumc.edu/,,North America
+650,Montana State University,United States,"Bozeman, MT",37.1,http://www.usnews.com/education/best-global-universities/montana-state-university-bozeman-180461,http://www.montana.edu,12376,North America
+650,University of Patras,Greece,Rio Achaia,37.1,http://www.usnews.com/education/best-global-universities/university-of-patras-503205,http://www.upatras.gr/en,,Europe
+650,University of Texas Health Science Center--Houston,United States,"Houston, TX",37.1,http://www.usnews.com/education/best-global-universities/university-of-texas-health-science-center-houston-229300,http://www.uth.tmc.edu/,,North America
+653,Huazhong Agricultural University,China,"Wuhan, Hubei",37,http://www.usnews.com/education/best-global-universities/huazhong-agricultural-university-503034,http://english.hust.edu.cn/,,Asia and Pacific
+653,New Mexico State University,United States,"Las Cruces, NM",37,http://www.usnews.com/education/best-global-universities/new-mexico-state-university-188030,http://www.nmsu.edu,15035,North America
+653,Universidade de Brasilia,Brazil,Brasilia,37,http://www.usnews.com/education/best-global-universities/universidade-de-brasilia-504217,http://www.unb.br/,,South/Latin America
+653,Université of Paris-Est Créteil,France,Créteil,37,http://www.usnews.com/education/best-global-universities/university-of-paris-est-creteil-528863,http://www.en.u-pec.fr/,,Europe
+653,University of Akron,United States,"Akron, OH",37,http://www.usnews.com/education/best-global-universities/university-of-akron-200800,http://www.uakron.edu,22285,North America
+653,University of North Texas,United States,"Denton, TX",37,http://www.usnews.com/education/best-global-universities/university-of-north-texas-denton-227216,http://www.unt.edu,31336,North America
+653,University of Toledo,United States,"Toledo, OH",37,http://www.usnews.com/education/best-global-universities/university-of-toledo-206084,http://www.utoledo.edu,18506,North America
+660,Concordia University,Canada,"Montreal, Quebec",36.8,http://www.usnews.com/education/best-global-universities/concordia-university-canada-499961,http://www.concordia.ca/,31017,North America
+660,Institut National Polytechnique de Toulouse,France,Toulouse,36.8,http://www.usnews.com/education/best-global-universities/institut-national-polytechnique-de-toulouse-505784,http://www.inp-toulouse.fr/en/index.html,,Europe
+660,Jadavpur University,India,"Kolkata, West Bengal",36.8,http://www.usnews.com/education/best-global-universities/jadavpur-university-505474,http://www.jaduniv.edu.in/,,Asia and Pacific
+660,Makerere University,Uganda,Kampala,36.8,http://www.usnews.com/education/best-global-universities/makerere-university-528833,http://mak.ac.ug/,39970,Africa
+660,Michigan Technological University,United States,"Houghton, MI",36.8,http://www.usnews.com/education/best-global-universities/michigan-technological-university-171128,http://www.mtu.edu,6419,North America
+665,Johannes Kepler University of Linz,Austria,Linz,36.7,http://www.usnews.com/education/best-global-universities/johannes-kepler-university-of-linz-528837,http://www.jku.at/content,,Europe
+665,National Polytechnic Institute,Mexico,Mexico City,36.7,http://www.usnews.com/education/best-global-universities/instituto-politecnico-nacional-mexico-506818,http://www.esiqie.ipn.mx/Paginas/inicio.aspx,,South/Latin America
+667,Indian Institute of Technology Roorkee,India,"Roorkee, Uttarakhand",36.6,http://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-roorkee-528828,http://www.iitr.ac.in/,8061,Asia and Pacific
+667,University of Science and Technology Beijing,China,Beijing,36.6,http://www.usnews.com/education/best-global-universities/university-of-science-and-technology-beijing-506176,http://en.ustb.edu.cn/ ,,Asia and Pacific
+667,University of Ulsan,South Korea,Ulsan,36.6,http://www.usnews.com/education/best-global-universities/university-of-ulsan-500178,http://en.ulsan.ac.kr/contents/main/,16201,Asia and Pacific
+670,Capital Medical University,China,Beijing,36.5,http://www.usnews.com/education/best-global-universities/capital-medical-university-504555,http://www.ccmu.edu.cn/,,Asia and Pacific
+670,Tampere University of Technology,Finland,Tampere,36.5,http://www.usnews.com/education/best-global-universities/tampere-university-of-technology-528864,http://www.tut.fi/fi/tietoa-yliopistosta/index.htm,6147,Europe
+672,Beijing Jiaotong University,China,Beijing,36.4,http://www.usnews.com/education/best-global-universities/beijing-jiaotong-university-501352,http://en.bjtu.edu.cn/,,Asia and Pacific
+672,Keele University,United Kingdom,Staffordshire,36.4,http://www.usnews.com/education/best-global-universities/keele-university-504593,http://www.keele.ac.uk/,8397,Europe
+672,Novosibirsk State University,Russia,Novosibirsk,36.4,http://www.usnews.com/education/best-global-universities/novosibirsk-state-university-503585,http://www.nsu.ru/,7131,Europe
+672,University of Orleans,France,Orleans,36.4,http://www.usnews.com/education/best-global-universities/university-of-orleans-528865,http://www.univ-orleans.fr/,,Europe
+676,Northeastern University - China,China,Shenyang,36.3,http://www.usnews.com/education/best-global-universities/northeastern-university-china-514931,http://www.neu.edu.cn/,36567,Asia and Pacific
+676,Ocean University of China,China,"Quingdao, Shandong",36.3,http://www.usnews.com/education/best-global-universities/ocean-university-of-china-502491,http://www.ouc.edu.cn/,36243,Asia and Pacific
+678,Kanazawa University,Japan,"Kanazawa, Ishikawa",36.2,http://www.usnews.com/education/best-global-universities/kanazawa-university-503283,http://www.kanazawa-u.ac.jp/e/,10546,Asia and Pacific
+678,Murdoch University,Australia,Murdoch,36.2,http://www.usnews.com/education/best-global-universities/murdoch-university-528818,http://www.murdoch.edu.au/,16606,Asia and Pacific
+678,University of Nevada--Las Vegas,United States,"Las Vegas, NV",36.2,http://www.usnews.com/education/best-global-universities/university-of-nevada-las-vegas-182281,http://www.unlv.edu,21782,North America
+678,University of Sofia,Bulgaria,Sofia,36.2,http://www.usnews.com/education/best-global-universities/university-of-sofia-504656,https://www.uni-sofia.bg/index.php/eng/the_university,23050,Europe
+682,University of Wrocław,Poland,Wrocław,36.1,http://www.usnews.com/education/best-global-universities/university-of-wroclaw-502646,https://international.uni.wroc.pl/en,,Europe
+683,University of Texas Health Science Center--San Antonio,United States,"San Antonio, TX",36,http://www.usnews.com/education/best-global-universities/university-of-texas-health-science-center-san-antonio-228644,http://www.uthscsa.edu/,,North America
+685,Beijing University of Chemical Technology,China,Beijing,35.9,http://www.usnews.com/education/best-global-universities/beijing-university-of-chemical-technology-501098,https//english.buct.edu.cn,,Asia and Pacific
+686,Southwest University - China,China,Chongqing,35.8,http://www.usnews.com/education/best-global-universities/southwest-university-china-506024,http://www.swu.edu.cn/english/,,Asia and Pacific
+686,University of Palermo,Italy,Palermo,35.8,http://www.usnews.com/education/best-global-universities/university-of-palermo-italy-501535,http://www.unipa.it/,43875,Europe
+688,Memorial University of Newfoundland,Canada,"St. John's, NL",35.7,http://www.usnews.com/education/best-global-universities/memorial-university-newfoundland-499985,http://www.mun.ca/,,North America
+689,National Yang-Ming University,Taiwan,Taipei,35.6,http://www.usnews.com/education/best-global-universities/national-yang-ming-university-500325,http://nymu-e.web.ym.edu.tw/front/bin/home.phtml,4513,Asia and Pacific
+689,University of Kaiserslautern,Germany,Kaiserslautern,35.6,http://www.usnews.com/education/best-global-universities/university-of-kaiserslautern-528867,http://www.uni-kl.de/en/home/,,Europe
+691,Universitie de Versailles Saint-Quentin-en-Yvelines,France,Versailles,35.5,http://www.usnews.com/education/best-global-universities/universite-de-versailles-saint-quentin-en-yvelines-504122,http://www.uvsq.fr/ ,,Europe
+692,University of Nebraska Medical Center,United States,"Omaha, NE",35.4,http://www.usnews.com/education/best-global-universities/university-of-nebraska-medical-center-181428,http://unmc.edu/,2857,North America
+693,Georgia Regents University,United States,"Augusta, GA",35.3,http://www.usnews.com/education/best-global-universities/georgia-regents-university-482149,http://www.gru.edu/,,North America
+693,Universitat Jaume I,Spain,Castellion de la Plana,35.3,http://www.usnews.com/education/best-global-universities/universitat-jaume-i-528868,https://ujiapps.uji.es/,,Europe
+693,University of Alicante,Spain,Alicante,35.3,http://www.usnews.com/education/best-global-universities/universitat-dalacant-503239,http://www.ua.es/en/,,Europe
+696,Binghamton University--SUNY,United States,"Binghamton, NY",35.2,http://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-binghamton-196079,http://www.binghamton.edu,15799,North America
+696,Missouri University of Science & Technology,United States,"Rolla, MO",35.2,http://www.usnews.com/education/best-global-universities/missouri-university-science-technology-178411,http://www.mst.edu,6810,North America
+696,Ritsumeikan University,Japan,Kyoto,35.2,http://www.usnews.com/education/best-global-universities/ritsumeikan-university-528871,http://www.ritsumei.jp/index_j.html,34867,Asia and Pacific
+699,Loma Linda University,United States,"Loma Linda, CA",35.1,http://www.usnews.com/education/best-global-universities/loma-linda-university-117636,http://www.llu.edu,,North America
+699,Northwest A&F University - China,China,"Yangling, Shaanxi",35.1,http://www.usnews.com/education/best-global-universities/northwest-a%2Bf-university-china-503600,http://en.nwsuaf.edu.cn/,,Asia and Pacific
+699,Tarbiat Modares University,Iran,Tehran,35.1,http://www.usnews.com/education/best-global-universities/tarbiat-modares-university-528825,http://www.modares.ac.ir/,,Asia and Pacific
+699,University of New England,Australia,Armidale NSW,35.1,http://www.usnews.com/education/best-global-universities/university-of-new-england-528095,https://www.une.edu.au/,,Asia and Pacific
+703,Gazi University,Turkey,Ankara,35,http://www.usnews.com/education/best-global-universities/gazi-university-506852,http://gazi.edu.tr/?language=en_US,76409,Europe
+703,University of Ulster,United Kingdom,Coleraine,35,http://www.usnews.com/education/best-global-universities/university-of-ulster-528872,https://www.ulster.ac.uk/,19622,Europe
+705,Northwest University Xi'an,China,"Xi'an, Shaanxi",34.9,http://www.usnews.com/education/best-global-universities/northwest-university-xian-500540,http://www.nwu.edu.cn/,,Asia and Pacific
+706,Polytechnic University of Bucharest,Romania,Bucharest,34.8,http://www.usnews.com/education/best-global-universities/polytechnic-university-of-bucharest-506097,http://www.upb.ro/en/,,Europe
+706,Polytechnique Montreal,Canada,"Montreal, Quebec",34.8,http://www.usnews.com/education/best-global-universities/polytechnique-montreal-506113,http://www.polymtl.ca/en,,North America
+708,Chungnam National University,South Korea,Daejeon,34.7,http://www.usnews.com/education/best-global-universities/chungnam-national-university-502760,http://plus.cnu.ac.kr/html/kr/index.html,,Asia and Pacific
+708,Dublin City University,Ireland,Dublin,34.7,http://www.usnews.com/education/best-global-universities/dublin-city-university-528873,https://www.dcu.ie/,8546,Europe
+708,University of Poitiers,France,Poitiers,34.7,http://www.usnews.com/education/best-global-universities/university-of-poitiers-501414,http://www.univ-poitiers.fr/,,Europe
+711,National Taiwan University of Science and Technology,Taiwan,Taipei City,34.6,http://www.usnews.com/education/best-global-universities/national-taiwan-university-of-science-technology-501875,http://www-e.ntust.edu.tw/home.php,7446,Asia and Pacific
+712,Beijing Forestry University,China,Beijing,34.5,http://www.usnews.com/education/best-global-universities/beijing-forestry-university-528815,http://www.bjfu.edu.cn/english/,,Asia and Pacific
+712,Universidad de Concepcion,Chile,Concepcion,34.5,http://www.usnews.com/education/best-global-universities/universidad-de-concepcion-506070,http://www.udec.cl/pexterno/,,South/Latin America
+712,University of Maine,United States,"Orono, ME",34.5,http://www.usnews.com/education/best-global-universities/university-of-maine-orono-161253,http://www.umaine.edu,9318,North America
+715,Nanjing Medical University,China,"Gulou, Nanjing",34.4,http://www.usnews.com/education/best-global-universities/nanjing-medical-university-500938,http://english.njmu.edu.cn/,,Asia and Pacific
+715,University of the Republic - Uruguay,Uruguay,Montevideo,34.4,http://www.usnews.com/education/best-global-universities/university-of-the-republic-uruguay-528874,http://www.fder.edu.uy/,,South/Latin America
+717,Ain Shams University,Egypt,Cairo,34.3,http://www.usnews.com/education/best-global-universities/ain-shams-university-500744,http://www.asu.edu.eg/,143750,Arab States
+717,Iran University Science & Technology,Iran,Tehran,34.3,http://www.usnews.com/education/best-global-universities/iran-university-science-technology-505518,http://www.iust.ac.ir/home_en.php,10311,Asia and Pacific
+717,University of Hyderabad,India,Hyderabad,34.3,http://www.usnews.com/education/best-global-universities/university-of-hyderabad-528875,http://www.uohyd.ac.in/,5159,Asia and Pacific
+720,Universidade Federal de Sao Carlos,Brazil,"Sao Carlos, SP",34.2,http://www.usnews.com/education/best-global-universities/universidade-federal-de-sao-carlos-505014,http://www2.ufscar.br/home/index.php,,South/Latin America
+720,University of Stirling,United Kingdom,Stirling,34.2,http://www.usnews.com/education/best-global-universities/university-of-stirling-528876,https://www.stir.ac.uk/,7828,Europe
+722,Budapest University of Technology & Economics,Hungary,Budapest,34.1,http://www.usnews.com/education/best-global-universities/budapest-university-of-technology-economics-502324,http://www.bme.hu/?language=en,,Europe
+722,China Medical University Taiwan,Taiwan,Taichung,34.1,http://www.usnews.com/education/best-global-universities/china-medical-university-taiwan-503180,http://english.cmu.edu.tw/,7983,Asia and Pacific
+722,CUNY--City College,United States,"New York, NY",34.1,http://www.usnews.com/education/best-global-universities/city-college-of-new-york-cuny-190567,http://www.ccny.cuny.edu,,North America
+725,Alexandria University,Egypt,Alexandria,34,http://www.usnews.com/education/best-global-universities/alexandria-university-509708,http://www.alexu.edu.eg/index.php/en/,127505,Arab States
+725,Chang Gung University,Taiwan,Taoyuan City,34,http://www.usnews.com/education/best-global-universities/chang-gung-university-505417,http://www.cgu.edu.tw/bin/home.php?Lang=en,7506,Asia and Pacific
+725,City University London,United Kingdom,London,34,http://www.usnews.com/education/best-global-universities/city-university-london-503692,http://www.city.ac.uk/,13053,Europe
+725,Universidade Federal de Pernambuco,Brazil,"Recife, PE",34,http://www.usnews.com/education/best-global-universities/universidade-federal-de-pernambuco-506633,https://www.ufpe.br/english/,30425,South/Latin America
+729,All India Institute of Medical Sciences,India,New Delhi,33.9,http://www.usnews.com/education/best-global-universities/all-india-institute-of-medical-sciences-500492,http://www.aiims.edu/en.html,,Asia and Pacific
+730,Yildiz Teknik University,Turkey,Istanbul,33.8,http://www.usnews.com/education/best-global-universities/yildiz-teknik-university-528878,http://www.yildiz.edu.tr/en/,31268,Europe
+731,Tokyo University of Science,Japan,Tokyo,33.7,http://www.usnews.com/education/best-global-universities/tokyo-university-of-science-503707,https://www.tus.ac.jp/en/,20243,Asia and Pacific
+731,University of Murcia,Spain,Murcia,33.7,http://www.usnews.com/education/best-global-universities/university-of-murcia-503573,http://www.um.es/,,Europe
+733,Marche Polytechnic University,Italy,Ancona,33.6,http://www.usnews.com/education/best-global-universities/marche-polytechnic-university-503536,http://www.univpm.it/Entra/,,Europe
+733,National Chung Hsing University,Taiwan,Taichung,33.6,http://www.usnews.com/education/best-global-universities/national-chung-hsing-university-506137,http://www.nchu.edu.tw/en-index.php,15632,Asia and Pacific
+733,Universiti Kebangsaan Malaysia,Malaysia,Bangi Selangor,33.6,http://www.usnews.com/education/best-global-universities/universiti-kebangsaan-malaysia-506289,http://www.ukm.my/v6/,24227,Asia and Pacific
+736,American University of Beirut,Lebanon,Beirut,33.5,http://www.usnews.com/education/best-global-universities/american-university-of-beirut-499994,http://www.aub.edu.lb/main/Pages/index.aspx,7695,Arab States
+736,Fuzhou University,China,"Fuzhou, Fujian",33.5,http://www.usnews.com/education/best-global-universities/fuzhou-university-528832,http://219.229.134.146/html/EN/index.shtml,,Asia and Pacific
+736,Islamic Azad University Karaj,Iran,Karaj,33.5,http://www.usnews.com/education/best-global-universities/islamic-azad-university-karaj-528829,http://www.kiau.ac.ir/en,,Asia and Pacific
+736,Semmelweis University,Hungary,Budapest,33.5,http://www.usnews.com/education/best-global-universities/semmelweis-university-502811,http://semmelweis.hu/,12920,Europe
+736,South China Normal University,China,"Guangzhou, Guangdong",33.5,http://www.usnews.com/education/best-global-universities/south-china-normal-university-501607,http://former.scnu.edu.cn/eweb/,,Asia and Pacific
+736,University of Caen,France,Caen,33.5,http://www.usnews.com/education/best-global-universities/university-of-caen-528879,http://www.unicaen.fr/,,Europe
+736,University of Sassari,Italy,Sassari,33.5,http://www.usnews.com/education/best-global-universities/university-of-sassari-528880,http://www.uniss.it/php/home.php,,Europe
+743,Southern Illinois University--Carbondale,United States,"Carbondale, IL",33.4,http://www.usnews.com/education/best-global-universities/southern-illinois-university-149222,http://www.siu.edu,16503,North America
+744,Kumamoto University,Japan,Kumamoto,33.2,http://www.usnews.com/education/best-global-universities/kumamoto-university-505102,http://ewww.kumamoto-u.ac.jp/en/,10226,Asia and Pacific
+745,University of Szeged,Hungary,Szeged,33.1,http://www.usnews.com/education/best-global-universities/szeged-university-501065,http://www.u-szeged.hu/english/,22684,Europe
+746,Fourth Military Medical University,China,"Xi'an, Shaanxi",33,http://www.usnews.com/education/best-global-universities/fourth-military-medical-university-506665,http://en.fmmu.edu.cn/,,Asia and Pacific
+746,National University of Cordoba,Argentina,Cordoba,33,http://www.usnews.com/education/best-global-universities/national-university-of-cordoba-502638,http://www.unc.edu.ar/english,,South/Latin America
+746,Niigata University,Japan,Niigata,33,http://www.usnews.com/education/best-global-universities/niigata-university-504351,https://www.niigata-u.ac.jp/index_e.html,12460,Asia and Pacific
+749,University of Lille II,France,Lille,32.9,http://www.usnews.com/education/best-global-universities/university-of-lille-ii-528881,http://www.univ-lille2.fr/en/lille-2-university-of-health-and-law.html,,Europe
+750,University of Maribor,Slovenia,Maribor,32.8,http://www.usnews.com/education/best-global-universities/university-of-maribor-528882,http://www.um.si/en/Pages/default.aspx,,Europe

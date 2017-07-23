@@ -1,0 +1,147 @@
+country_rank,university,world_rank
+1,Harvard University,1
+2,Stanford University,2
+3,Massachusetts Institute of Technology,3
+4,University of California--Berkeley,4
+5,Princeton University,6
+6,California Institute of Technology,7
+7,Columbia University in the City of New York,8
+8,University of Chicago,9
+9,Yale University,11
+10,University of California--Los Angeles,12
+11,Cornell University,13
+12,University of California--San Diego,14
+13,University of Washington,15
+14,Johns Hopkins University,16
+15,University of Pennsylvania,17
+16,University of California--San Francisco,18
+17,University of Michigan--Ann Arbor,22
+18,University of Wisconsin--Madison,24
+19,New York University,27
+19,Northwestern University,27
+21,University of Illinois--Urbana--Champaign,29
+22,University of Minnesota--Twin Cities,30
+23,Duke University,31
+24,Washington University in St. Louis,32
+25,Rockefeller University,33
+26,University of Colorado--Boulder,34
+27,University of Texas--Austin,37
+28,University of California--Santa Barbara,38
+29,University of North Carolina--Chapel Hill,39
+30,University of Maryland--College Park,43
+31,University of Texas Southwestern Medical Center--Dallas,44
+32,University of Southern California,49
+33,University of California--Irvine,50
+34,Vanderbilt University,53
+35,University of California--Davis,57
+36,Pennsylvania State University--University Park,60
+37,Carnegie Mellon University,61
+37,Purdue University--West Lafayette,61
+39,"Rutgers, The State University of New Jersey--New Brunswick",64
+40,Ohio State University-- Columbus,67
+41,"University of Pittsburgh, Pittsburgh Campus",70
+42,Boston University,73
+43,Brown University,75
+44,University of Florida,83
+45,Rice University,84
+46,University of Arizona,90
+47,Arizona State University,93
+47,University of California--Santa Cruz,93
+47,University of Utah,93
+50,Michigan State University,99
+51,Texas A&M University--College Station,100
+52-65,Baylor College of Medicine,101-150
+52-65,Case Western Reserve University,101-150
+52-65,Emory University,101-150
+52-65,Georgia Institute of Technology,101-150
+52-65,Icahn School of Medicine--Mount Sinai,101-150
+52-65,Indiana University--Bloomington,101-150
+52-65,Mayo Medical School,101-150
+52-65,University of Texas M. D. Anderson Cancer Center,101-150
+52-65,Tufts University,101-150
+52-65,University of California--Riverside,101-150
+52-65,University of Massachusetts--Amherst,101-150
+52-65,University of Massachusetts Medical School--Worcester,101-150
+52-65,University of Rochester,101-150
+52-65,University of Virginia,101-150
+66-78,George Mason University,151-200
+66-78,Iowa State University,151-200
+66-78,North Carolina State University--Raleigh,151-200
+66-78,Oregon Health and Science University,151-200
+66-78,Oregon State University,151-200
+66-78,University of Georgia,151-200
+66-78,University of Delaware,151-200
+66-78,University of Hawaii--Manoa,151-200
+66-78,University of Illinois--Chicago,151-200
+66-78,University of Iowa,151-200
+66-78,University of Miami,151-200
+66-78,University of Tennessee--Knoxville,151-200
+66-78,Virginia Commonwealth University,151-200
+79-102,Brandeis University,201-300
+79-102,Colorado State University,201-300
+79-102,Dartmouth College,201-300
+79-102,Florida State University,201-300
+79-102,Indiana University--Purdue University--Indianapolis,201-300
+79-102,Louisiana State University--Baton Rouge,201-300
+79-102,Northeastern University,201-300
+79-102,Stony Brook University,201-300
+79-102,George Washington University,201-300
+79-102,University of New Mexico--Albuquerque,201-300
+79-102,University of Texas Health Science Center--Houston,201-300
+79-102,University at Buffalo--SUNY,201-300
+79-102,University of Alabama--Birmingham,201-300
+79-102,University of Cincinnati,201-300
+79-102,University of Houston,201-300
+79-102,University of Kansas,201-300
+79-102,University of Kentucky,201-300
+79-102,University of Maryland--Baltimore,201-300
+79-102,University of Nebraska--Lincoln,201-300
+79-102,University of Notre Dame,201-300
+79-102,University of South Carolina--Columbia,201-300
+79-102,University of South Florida,201-300
+79-102,Virginia Tech,201-300
+79-102,Yeshiva University,201-300
+103-125,Brigham Young University,301-400
+103-125,CUNY--City College,301-400
+103-125,Drexel University,301-400
+103-125,Georgetown University,301-400
+103-125,Rensselaer Polytechnic Institute,301-400
+103-125,San Diego State University,301-400
+103-125,Temple University,301-400
+103-125,University of Texas--Dallas,301-400
+103-125,University of Texas Health Science Center--San Antonio,301-400
+103-125,Thomas Jefferson University,301-400
+103-125,Tulane University,301-400
+103-125,University at Albany--SUNY,301-400
+103-125,University of Central Florida,301-400
+103-125,University of Colorado--Denver,301-400
+103-125,University of Connecticut,301-400
+103-125,University of Missouri--Columbia,301-400
+103-125,University of Montana--Missoula,301-400
+103-125,University of New Hampshire--Durham,301-400
+103-125,University of Oregon,301-400
+103-125,University of Vermont,301-400
+103-125,University of Wyoming,301-400
+103-125,Washington State University,301-400
+103-125,Wayne State University,301-400
+126-146,Auburn University,401-500
+126-146,Boston College,401-500
+126-146,Clemson University,401-500
+126-146,Florida International University,401-500
+126-146,Kansas State University,401-500
+126-146,Medical University of South Carolina,401-500
+126-146,Oklahoma State University,401-500
+126-146,Rush University,401-500
+126-146,Saint Louis University,401-500
+126-146,SUNY Downstate Medical Center,401-500
+126-146,Syracuse University,401-500
+126-146,Texas Tech University,401-500
+126-146,University of Texas Medical Branch--Galveston,401-500
+126-146,University of Alaska--Fairbanks,401-500
+126-146,University of Arkansas--Fayetteville,401-500
+126-146,University of Arkansas--Little Rock,401-500
+126-146,University of Maryland--Baltimore County,401-500
+126-146,University of Oklahoma--Norman,401-500
+126-146,University of Rhode Island,401-500
+126-146,Utah State University,401-500
+126-146,Wake Forest University,401-500
