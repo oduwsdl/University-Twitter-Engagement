@@ -1,0 +1,265 @@
+University,ARWU,THE,US News 2015,US News 2016,Mean ARR,ARR Rank
+"Harvard University",1,2,1,1,1,1
+"Stanford University",2,1,3,3,2,2
+"University of California--Berkeley",3,5,2,2,3,3
+"Princeton University",4,3,6,7,5,4
+"Columbia University in the City of New York",5,6,5,5,5,4
+"University of California--Los Angeles",7,7,4,4,6,6
+"Yale University",6,4,9,8,7,7
+"University of Washington--Seattle Campus",9,13,7,6,9,8
+"University of Pennsylvania",10,8,10,8,9,8
+"Cornell University",8,9,12,12,10,10
+"University of Michigan--Ann Arbor",11,11,7,10,10,10
+"Duke University",16,10,11,11,12,12
+"Northwestern University",13,12,13,14,13,13
+"University of Wisconsin--Madison",12,19,14,15,15,14
+"University of California--Santa Barbara",19,15,15,13,16,15
+"University of Minnesota--Twin Cities",15,23,16,17,18,16
+"University of Illinois--Urbana--Champaign",14,14,20,23,18,16
+"University of Texas--Austin",18,18,17,18,18,16
+"University of North Carolina--Chapel Hill",20,21,18,16,19,19
+"University of California--Davis",25,17,21,21,21,20
+"Boston University",31,22,21,19,23,21
+"University of Southern California",22,24,24,24,24,22
+"Ohio State University--Main Campus",29,28,19,20,24,22
+"University of Pittsburgh--Pittsburgh",30,26,23,26,26,24
+"Pennsylvania State University--Main Campus",26,25,26,28,26,24
+"University of Maryland--College Park",21,36,25,22,26,24
+"University of Colorado--Boulder",17,39,29,25,28,27
+"Georgia Institute of Technology--Main Campus",40,16,30,31,29,28
+"Vanderbilt University",24,27,36,34,30,29
+"University of California--Irvine",23,33,32,30,30,29
+"Rutgers University--New Brunswick",28,38,28,29,31,31
+"University of Florida",33,37,27,27,31,31
+"Purdue University--Main Campus",27,35,33,33,32,33
+"Brown University",32,20,39,39,33,34
+"Michigan State University",38,30,34,35,34,35
+"Rice University",34,31,36,36,34,35
+"University of Arizona",35,43,31,32,35,37
+"University of Virginia--Main Campus",40,41,38,38,39,38
+"Texas A&M University--College Station",39,47,35,37,40,39
+"University of Massachusetts--Amherst",40,40,41,40,40,39
+"Indiana University--Bloomington",40,48,40,41,42,41
+"University of California--Riverside",40,44,43,42,42,41
+"University of Utah",36,45,45,45,43,43
+"University of Iowa",45,48,42,43,45,44
+"University of Miami",45,42,48,48,46,45
+"Stony Brook University",57,48,44,44,48,46
+"University of Notre Dame",57,34,52,50,48,46
+"Iowa State University",45,59,47,49,50,48
+"University of Tennessee--Knoxville",45,59,49,47,50,48
+"Florida State University",57,48,50,52,52,50
+"Dartmouth College",57,32,60,61,53,51
+"Northeastern University",57,48,58,55,55,52
+"University of Georgia",45,59,55,59,55,52
+"North Carolina State University--Raleigh",45,59,57,58,55,52
+"Oregon State University",45,59,62,64,58,55
+"Georgetown University",76,29,64,66,59,56
+"University of Cincinnati--Main Campus",57,70,53,57,59,56
+"Colorado State University--Fort Collins",57,59,59,62,59,56
+"University of New Mexico--Albuquerque",57,75,54,53,60,59
+"Arizona State University--Tempe",36,112,45,46,60,59
+"University of Illinois--Chicago",45,48,100,51,61,61
+"Virginia Polytechnic Institute and State University",57,59,61,67,61,61
+"George Washington University",57,48,69,71,61,61
+"University of Hawaii--Manoa",45,48,77,78,62,64
+"University of Delaware",45,59,72,74,63,65
+"University of South Florida--Main Campus",57,48,73,72,63,65
+"University of Nebraska--Lincoln",57,70,63,64,64,67
+"University of South Carolina--Columbia",57,75,65,63,65,68
+"University of Oregon",76,70,66,60,68,69
+"University of Alabama--Birmingham",57,112,51,54,69,70
+"University of Kansas",57,112,56,55,70,71
+"University of Connecticut",76,70,68,70,71,72
+"University of Houston",57,75,75,75,71,72
+"Wake Forest University",92,48,74,79,73,74
+"George Mason University",45,70,89,90,74,75
+"University of Missouri--Columbia",76,75,71,76,75,76
+"University of Kentucky",57,112,66,68,76,77
+"Tulane University of Louisiana",76,59,82,89,77,78
+"Virginia Commonwealth University",45,112,76,80,78,79
+"Washington State University",76,75,78,83,78,79
+"Boston College",92,46,87,88,78,79
+"Syracuse University",92,59,84,80,79,82
+"Temple University",76,75,85,86,81,83
+"Indiana University--Purdue University--Indianapolis",57,112,89,69,82,84
+"Drexel University",76,75,88,91,83,85
+"SUNY--Albany",76,87,83,84,83,85
+"Louisiana State University and Agricultural & Mechanical College",57,87,100,98,86,87
+"College of William and Mary",93,48,100,107,87,88
+"Saint Louis University",92,59,96,102,87,88
+"University of Oklahoma--Norman",92,112,70,73,87,88
+"San Diego State University",76,75,99,102,88,91
+"University of Montana--Missoula",76,75,100,106,89,92
+"Kansas State University",92,97,80,85,89,92
+"University of Mississippi",93,112,79,80,91,94
+"Florida International University",92,87,95,91,91,94
+"Baylor University",93,112,81,77,91,94
+"University of Central Florida",76,112,91,93,93,97
+"University of Texas--San Antonio",93,75,100,109,94,98
+"University of Texas--Arlington",93,97,92,95,94,98
+"Oklahoma State University--Main Campus",92,97,93,99,95,100
+"Georgia State University",93,87,100,101,95,100
+"University of Alabama--Tuscaloosa",93,112,85,94,96,102
+"University of Maryland--Baltimore County",92,87,100,107,97,103
+"University of Vermont",76,112,98,100,97,103
+"Texas Tech University",92,111,93,96,98,105
+"Southern Methodist University",93,112,100,87,98,105
+"University of Wisconsin--Milwaukee",93,97,100,104,99,107
+"Lehigh University",93,87,100,117,99,107
+"University of Arkansas--Fayetteville",92,97,100,112,100,109
+"SUNY--Binghamton",93,75,100,133,100,109
+"University of Wyoming",76,112,100,110,100,109
+"University of New Hampshire--Durham",76,112,100,115,101,112
+"Auburn University",92,97,100,116,101,112
+"University of Idaho",93,87,100,125,101,112
+"Northern Illinois University",93,112,100,97,101,112
+"University of South Dakota",93,75,100,136,101,112
+"Kent State University--Kent",93,97,100,119,102,117
+"University of Louisville",93,112,97,105,102,117
+"Brigham Young University--Provo",76,112,100,122,103,119
+"Montana State University",93,97,100,127,104,120
+"American University",93,87,100,136,104,120
+"University of San Francisco",93,87,100,136,104,120
+"Howard University",93,87,100,136,104,120
+"Clemson University",92,111,100,113,104,120
+"West Virginia University",93,112,100,111,104,120
+"University of Toledo",93,97,100,128,105,126
+"Loyola University Chicago",93,112,100,114,105,126
+"New Mexico State University--Main Campus",93,97,100,128,105,126
+"Ohio University--Main Campus",93,111,100,120,106,129
+"Old Dominion University",93,112,100,118,106,129
+"University of Nevada--Reno",93,112,100,122,107,131
+"University of Missouri--Kansas City",93,112,100,121,107,131
+"University of North Carolina--Greensboro",93,97,100,136,107,131
+"New Jersey Institute of Technology",93,97,100,136,107,131
+"University of Tulsa",93,97,100,136,107,131
+"Portland State University",93,97,100,136,107,131
+"Utah State University",92,112,100,122,107,131
+"University of Rhode Island",92,112,100,125,107,131
+"University of Akron",93,112,100,128,108,139
+"University of North Texas",93,112,100,128,108,139
+"University of Nevada--Las Vegas",93,112,100,132,109,141
+"University of Northern Iowa",93,112,100,136,110,142
+"Drake University",93,112,100,136,110,142
+"Fordham University",93,112,100,136,110,142
+"Robert Morris University",93,112,100,136,110,142
+"California State University--Fresno",93,112,100,136,110,142
+"University of Massachusetts--Lowell",93,112,100,136,110,142
+"Winthrop University",93,112,100,136,110,142
+"Seton Hall University",93,112,100,136,110,142
+"Alcorn State University",93,112,100,136,110,142
+"University of Denver",93,112,100,136,110,142
+"University of San Diego",93,112,100,136,110,142
+"Louisiana Tech University",93,112,100,136,110,142
+"Stetson University",93,112,100,136,110,142
+"La Salle University",93,112,100,136,110,142
+"California State University--Fullerton",93,112,100,136,110,142
+"Saint Mary's College of California",93,112,100,136,110,142
+"Fairfield University",93,112,100,136,110,142
+"Quinnipiac University",93,112,100,136,110,142
+"University of North Carolina--Charlotte",93,112,100,136,110,142
+"Santa Clara University",93,112,100,136,110,142
+"Longwood University",93,112,100,136,110,142
+"Hampton University",93,112,100,136,110,142
+"Southeast Missouri State University",93,112,100,136,110,142
+"North Dakota State University--Main Campus",93,112,100,136,110,142
+"Samford University",93,112,100,136,110,142
+"Bowling Green State University--Main Campus",93,112,100,136,110,142
+"Wofford College",93,112,100,136,110,142
+"St. Francis College",93,112,100,136,110,142
+"University of Louisiana--Lafayette",93,112,100,136,110,142
+"South Carolina State University",93,112,100,136,110,142
+"Citadel Military College of South Carolina",93,112,100,136,110,142
+"Furman University",93,112,100,136,110,142
+"Bradley University",93,112,100,136,110,142
+"Creighton University",93,112,100,136,110,142
+"High Point University",93,112,100,136,110,142
+"Marquette University",93,112,100,136,110,142
+"Mercer University",93,112,100,136,110,142
+"Northern Arizona University",93,112,100,136,110,142
+"Presbyterian College",93,112,100,136,110,142
+"Saint Joseph's University",93,112,100,136,110,142
+"Saint Peter's University",93,112,100,136,110,142
+"Davidson College",93,112,100,136,110,142
+"University of Arkansas--Little Rock",92,112,100,136,110,142
+"Villanova University",93,112,100,136,110,142
+"Seattle University",93,112,100,136,110,142
+"DePaul University",93,112,100,136,110,142
+"Hofstra University",93,112,100,136,110,142
+"Murray State University",93,112,100,136,110,142
+"San Jose State University",93,112,100,136,110,142
+"East Carolina University",93,112,100,136,110,142
+"University of Portland",93,112,100,136,110,142
+"University of Texas--El Paso",93,111,100,136,110,142
+"Tennessee Technological University",93,112,100,136,110,142
+"Bucknell University",93,112,100,136,110,142
+"University of Dayton",93,112,100,136,110,142
+"Rider University",93,112,100,136,110,142
+"Mississippi State University",93,112,100,136,110,142
+"James Madison University",93,112,100,136,110,142
+"North Carolina Central University",93,112,100,136,110,142
+"University of Evansville",93,112,100,136,110,142
+"Colgate University",93,112,100,136,110,142
+"Oakland University",93,111,100,136,110,142
+"Canisius College",93,112,100,136,110,142
+"College of the Holy Cross",93,112,100,136,110,142
+"North Carolina A&T State University",93,112,100,136,110,142
+"Jackson State University",93,112,100,136,110,142
+"University of Maine--Orono",93,112,100,134,110,142
+"Appalachian State University",93,112,100,136,110,142
+"Central Connecticut State University",93,112,100,136,110,142
+"Central Michigan University",93,112,100,136,110,142
+"Western Michigan University",93,112,100,136,110,142
+"South Dakota State University",93,112,100,136,110,142
+"Western Kentucky University",93,112,100,136,110,142
+"University of Wisconsin--Green Bay",93,112,100,136,110,142
+"Ball State University",93,112,100,136,110,142
+"Siena College",93,112,100,136,110,142
+"Manhattan College",93,112,100,136,110,142
+"Saint Francis University",93,112,100,136,110,142
+"Southern Illinois University--Carbondale",93,112,100,135,110,142
+"College of Charleston",93,112,100,136,110,142
+"Eastern Illinois University",93,112,100,136,110,142
+"Virginia Military Institute",93,112,100,136,110,142
+"Lafayette College",93,112,100,136,110,142
+"Bethune-Cookman University",93,112,100,136,110,142
+"Bryant University",93,112,100,136,110,142
+"California State University--Long Beach",93,111,100,136,110,142
+"Miami University--Oxford",93,111,100,136,110,142
+"University of Southern Mississippi",93,111,100,136,110,142
+"University of Richmond",93,112,100,136,110,142
+"California Polytechnic State University--San Luis Obispo",93,112,100,136,110,142
+"Southern Illinois University--Edwardsville",93,112,100,136,110,142
+"Tennessee State University",93,112,100,136,110,142
+"Towson University",93,112,100,136,110,142
+"University of North Carolina--Asheville",93,112,100,136,110,142
+"University of North Dakota",93,112,100,136,110,142
+"University of the Pacific",93,112,100,136,110,142
+"Valparaiso University",93,112,100,136,110,142
+"University of North Florida",93,112,100,136,110,142
+"Sam Houston State University",93,112,100,136,110,142
+"Duquesne University",93,112,100,136,110,142
+"Elon University",93,112,100,136,110,142
+"Providence College",93,112,100,136,110,142
+"St. Bonaventure University",93,112,100,136,110,142
+"Georgia Southern University",93,112,100,136,110,142
+"Texas Christian University",93,112,100,136,110,142
+"Butler University",93,112,100,136,110,142
+"Loyola Marymount University",93,112,100,136,110,142
+"Belmont University",93,112,100,136,110,142
+"Lipscomb University",93,112,100,136,110,142
+"University of North Carolina--Wilmington",93,112,100,136,110,142
+"Wagner College",93,112,100,136,110,142
+"Western Carolina University",93,112,100,136,110,142
+"Western Illinois University",93,112,100,136,110,142
+"Xavier University",93,112,100,136,110,142
+"Loyola University Maryland",93,112,100,136,110,142
+"Gonzaga University",93,112,100,136,110,142
+"Niagara University",93,112,100,136,110,142
+"Illinois State University",93,112,100,136,110,142
+"Marist College",93,112,100,136,110,142
+"Missouri State University--Springfield",93,112,100,136,110,142
+"Monmouth University",93,112,100,136,110,142
+"Pepperdine University",93,112,100,136,110,142
+"Radford University",93,112,100,136,110,142
