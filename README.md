@@ -34,12 +34,12 @@ The <a href="https://nces.ed.gov/ipeds/" target="_blank">Integrated Postsecondar
 
 ### NCAA
 
-To select the universities of interest to our study, we begin with the 351 American colleges and universities as Division I by the the National Collegiate Athletic Association (NCAA). For evalution, we consider a subset of 65 universities associated with the Power Five conferences: SEC, ACC, Big Ten, Pac-12, and Big-12. The [`NCAA`](NCAA) folder contains several files which provide information related to athletic expenditures and conference membership.
+To select the universities of interest to our study, we begin with the 351 American colleges and universities classified as Division I by the the National Collegiate Athletic Association (NCAA). For evaluation, we consider a subset of 65 universities associated with the Power Five conferences: SEC, ACC, Big Ten, Pac-12, and Big-12. The [`NCAA`](NCAA) folder contains several files which provide information related to athletic expenditures and conference membership.
 
 
 ### Twitter Dataset
 
-The entire dataset used to perform the ranking analysis is published as a JSON in the [`Twitter_Accounts`](Twitter_Accounts) folder. The file identifies the official primary and affiliated secondary Twitter accounts associated with each of the 264 institution in our dataset along with selected attributes for each profile (i.e., screen name, user name, URL, protected, follower count, following count). The Twitter data is used to calculate University Twitter Engagement (UTE) which is the friend and extended follower network of primary and affiliated secondary Twitter accounts referenced on a university's home page. Please note this is a large file that contains over 1 million Twitter profiles, and is best opened with a utility such as <a href="http://jsoneditoronline.org/" target="_blank">JSON Editor Online</a>. 
+The entire dataset used to perform the ranking analysis is published as a JSON in the [`Twitter_Accounts`](Twitter_Accounts) folder. The file identifies the official primary and affiliated secondary Twitter accounts associated with each of the 264 institution in our dataset along with selected attributes for each profile (i.e., screen name, user name, URL, protected, follower count, following count). The Twitter data is used to calculate University Twitter Engagement (UTE) score which is the friend and extended follower network of primary and affiliated secondary Twitter accounts referenced on a university's home page. Please note this is a large file that contains over 1 million Twitter profiles, and is best opened with a utility such as <a href="http://jsoneditoronline.org/" target="_blank">JSON Editor Online</a>. 
 
 # Results
 
