@@ -7,7 +7,7 @@ This repository contains source data related to the technical report, "[Universi
 - [Data](#data)
     - [Expert Ranking Lists](#expert-ranking-lists)
     - [University Endowments](#university-endowments)
-    - [Integrated Postsecondary Education Data System (IPEDS)](#integrated-postsecondary-education-data-system-(ipeds))
+    - [IPEDS](#ipeds)
     - [NCAA](#ncaa)
 	- [Twitter Dataset](#twitter-dataset)
 - [Results](#results)
@@ -22,15 +22,15 @@ The raw, input data for our core analyses was obtained from the following source
 
 ### Expert Ranking Lists
 
-This source data was extracted from the 2015-2016 academic rankings of <a href="http://www.usnews.com/education/best-global-universities/rankings" target="_blank">U.S. News</a>, <a href="https://www.timeshighereducation.com/world-university-rankings" target="_blank">Times Higher Education</a>, <a href="http://www.shanghairanking.com/ARWU2016.html" target="_blank">Academic Rankings of World Universities</a> and <a href="http://new.time.com/money/best-colleges/rankings/best-colleges/" target="_blank">Money Magazine</a> for the top 264 universities in the United States. These institutions were ranked based on 12 indicators that measure their academic research performance and their global and regional reputations. Note: The ranking data was collected during August 2016. It is possible the ranking pages have been updated subsequent to when the data were originally collected.
+This source data was extracted from the 2015-2016 academic rankings of <a href="http://www.usnews.com/education/best-global-universities/rankings" target="_blank">U.S. News</a>, <a href="https://www.timeshighereducation.com/world-university-rankings" target="_blank">Times Higher Education</a>, <a href="http://www.shanghairanking.com/ARWU2016.html" target="_blank">Academic Rankings of World Universities</a> and <a href="http://new.time.com/money/best-colleges/rankings/best-colleges/" target="_blank">Money Magazine</a> for the top 264 universities in the United States. These institutions were ranked based on 12 indicators that measure their academic research performance and their global and regional reputations. Note: The ranking data was collected during August 2016. It is possible the ranking pages have been updated subsequent to when the data were originally collected. The list contents as they appeared during our data collection is shown in the [`Expert Ranking Lists`](Expert Ranking Lists) folder.
 
 ### University Endowments
 
 The <a href="http://www.nacubo.org/Documents/EndowmentFiles/2015_NCSE_Endowment_Market_Values.pdf" target="_blank">2015 NCSE Endowment Market Values</a> file was downloaded in a PDF format from the National Association of College and University Business Officers (NACUBO) website. It lists the self-reported market value of endowments for those U.S. and Canadian institutions who responded to a NACUBO survey. We scraped the PDF to convert it into a machine readable format [`endowment/university_endowments_2014-2015.csv`](Endowment/University_Endowments_2014-2015.csv), then matched the institution to universities on the expert ranking lists. In cases where an endowment was associated with a university system (e.g., University of Minnesota Foundation), we used <a href="http://wiki.dbpedia.org/DBpedia" target="_blank">DBpedia</a> to determine the proportion that should be allocated to a particular university of interest (e.g., University of Minnesota-Twin Cities).
 
-### Integrated Postsecondary Education Data System (IPEDS)
+### IPEDS
 
-<a href="https://nces.ed.gov/ipeds/" target="_blank">IPEDS</a> is the core education collection program for the <a href="https://nces.ed.gov/">National Center for Education Statistics (NCES)</a>. The [`IPEDS`](IPEDS) folder contains two zipped files downloaded from IPEDS. These files contain directory information for every institution in the 2015 IPEDS universe. This information includes name, address, city, state, zip code and various URL links to the institution's home page, admissions, financial aid offices and  the net price calculator.  It identifies institutions as currently active, institutions that participate in Title IV federal financial aid programs for which IPEDS is mandatory. It also includes variables derived from the 2015 Institutional Characteristics survey, such as control and level of institution, highest level and highest degree offered and Carnegie classifications. For our research, IPEDS was used to standardize institution names across ranking lists as served as the source for enrollment.
+The <a href="https://nces.ed.gov/ipeds/" target="_blank">Integrated Postsecondary Education Data System (IPEDS)</a> is the core education collection program for the <a href="https://nces.ed.gov/">National Center for Education Statistics (NCES)</a>. The [`IPEDS`](IPEDS) folder contains two zipped files downloaded from IPEDS. These files contain directory information for every institution in the 2015 IPEDS universe. This information includes name, address, city, state, zip code and various URL links to the institution's home page, admissions, financial aid offices and  the net price calculator.  It identifies institutions as currently active, institutions that participate in Title IV federal financial aid programs for which IPEDS is mandatory. It also includes variables derived from the 2015 Institutional Characteristics survey, such as control and level of institution, highest level and highest degree offered and Carnegie classifications. For our research, IPEDS was used to standardize institution names across ranking lists as served as the source for enrollment.
 
 ### NCAA
 
@@ -45,6 +45,7 @@ The entire dataset used to perform the ranking analysis is published as a JSON [
 
 ## ODU Ranking Lists
 
+The [`ODU Ranking Lists`](ODU Ranking Lists) folder contains the complete university listings ranked by our specific criteria of ARR, EEE, and UTE>
 
 # Feedback / Questions?
 
