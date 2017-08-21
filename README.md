@@ -43,9 +43,11 @@ The entire dataset used to perform the ranking analysis is published as a JSON [
 
 # Results
 
+In rank-to-rank comparisons we observed a significant, positive rank correlation (τ=0.6018) between UTE and an aggregated reputation ranking (ARR) which indicates that UTE could be a viable proxy for ranking atypical institutions normally excluded from traditional lists. In addition, we significantly reduce the cost of data collection needed to rank each institution by using only web-based artifacts and a publicly accessible Twitter application programming interface (API).
+
 ## ODU Ranking Lists
 
-The [`ODU_Ranking_Lists`](ODU_Ranking_Lists) folder contains the complete university listings ranked by our specific criteria of [`adjusted reputation rank (ARR)`](ODU_Ranking_Lists/Ranked_by_ARR.csv), [`ependitures, enrollment and endowment (EEE)`](ODU_Ranking_Lists/Ranked_by_EEE.csv), and [`university Twitter engagement (UTE)`](ODU_Ranking_Lists/Ranked_by_UTE.csv).
+The [`ODU_Ranking_Lists`](ODU_Ranking_Lists) folder contains the complete university listings ranked by our specific criteria of [`adjusted reputation rank (ARR)`](ODU_Ranking_Lists/Ranked_by_ARR.csv), [`ependitures, enrollment and endowment (EEE)`](ODU_Ranking_Lists/Ranked_by_EEE.csv), and [`university Twitter engagement (UTE)`](ODU_Ranking_Lists/Ranked_by_UTE.csv). Please refer to the tech report for more information regarding the methodology used to construct each ranking list.
 
 # Feedback / Questions?
 
