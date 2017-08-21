@@ -7,7 +7,7 @@ This repository contains source data related to the technical report, "[Universi
 - [Data](#data)
     - [Expert Ranking Lists](#expert-ranking-lists)
     - [University Endowments](#university-endowments)
-    - [Integrated Postsecondary Education Data System (IPEDS)](#Integrated-Postsecondary-Education-Data-System-(IPEDS))
+    - [Integrated Postsecondary Education Data System (IPEDS)](#integrated-postsecondary-education-data-system-(ipeds))
     - [NCAA](#ncaa)
 	- [Twitter Dataset](#twitter-dataset)
 - [Results](#results)
