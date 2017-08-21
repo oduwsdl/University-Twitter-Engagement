@@ -34,7 +34,7 @@ The <a href="https://nces.ed.gov/ipeds/" target="_blank">Integrated Postsecondar
 
 ### NCAA
 
-To select the universities of interest to our study, we begin with the 351 American colleges and universities as Division I by the the National Collegiate Athletic Association (NCAA). For evalution, we consider a subset of 65 universities associated with the Power Five conferences: SEC, ACC, Big Ten, Pac-12, and Big-12. The [`NCAA`](NCAA) folder contains several file which provide information related to athletic expenditures and conference membership.
+To select the universities of interest to our study, we begin with the 351 American colleges and universities as Division I by the the National Collegiate Athletic Association (NCAA). For evalution, we consider a subset of 65 universities associated with the Power Five conferences: SEC, ACC, Big Ten, Pac-12, and Big-12. The [`NCAA`](NCAA) folder contains several files which provide information related to athletic expenditures and conference membership.
 
 
 ### Twitter Dataset
