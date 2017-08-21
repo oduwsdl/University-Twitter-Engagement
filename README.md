@@ -22,7 +22,7 @@ The raw, input data for our core analyses was obtained from the following source
 
 ### Expert Ranking Lists
 
-This source data was extracted from the 2015-2016 academic rankings of <a href="http://www.usnews.com/education/best-global-universities/rankings" target="_blank">U.S. News</a>, <a href="https://www.timeshighereducation.com/world-university-rankings" target="_blank">Times Higher Education</a>, <a href="http://www.shanghairanking.com/ARWU2016.html" target="_blank">Academic Rankings of World Universities</a> and <a href="http://new.time.com/money/best-colleges/rankings/best-colleges/" target="_blank">Money Magazine</a> for the top 264 universities in the United States. These institutions were ranked based on 12 indicators that measure their academic research performance and their global and regional reputations. Note: The ranking data was collected during August 2016. It is possible the ranking pages have been updated subsequent to when the data were originally collected. The list contents as they appeared during our data collection is shown in the [`Expert Ranking Lists`](Expert Ranking Lists) folder.
+This source data was extracted from the 2015-2016 academic rankings of <a href="http://www.usnews.com/education/best-global-universities/rankings" target="_blank">U.S. News</a>, <a href="https://www.timeshighereducation.com/world-university-rankings" target="_blank">Times Higher Education</a>, <a href="http://www.shanghairanking.com/ARWU2016.html" target="_blank">Academic Rankings of World Universities</a> and <a href="http://new.time.com/money/best-colleges/rankings/best-colleges/" target="_blank">Money Magazine</a> for the top 264 universities in the United States. These institutions were ranked based on 12 indicators that measure their academic research performance and their global and regional reputations. Note: The ranking data was collected during August 2016. It is possible the ranking pages have been updated subsequent to when the data were originally collected. The list contents as they appeared during our data collection is shown in the [`Expert_Ranking_Lists`](Expert_Ranking_Lists) folder.
 
 ### University Endowments
 
@@ -39,13 +39,13 @@ To select the universities of interest to our study, we begin with the 351 Ameri
 
 ### Twitter Dataset
 
-The entire dataset used to perform the ranking analysis is published as a JSON [`Twitter Accounts/UTE University Twitter Accounts.json`](Twitter Accounts/UTE University Twitter Accounts.json). The JSON file identifies the official primary and affiliated secondary Twitter accounts associated with each institution along with selected attributes for each profile (i.e., screen name, user name, URL, protected, follower count, following count). The Twitter data is used to calculate University Twitter Engagement (UTE) which is the friend and extended follower network of primary and affiliated secondary Twitter accounts referenced on a university's home page. Please note this file contains over 1 million Twitter profiles, and is best opened with a utility such as <a href="http://jsoneditoronline.org/" target="_blank">JSON Editor Online</a>. 
+The entire dataset used to perform the ranking analysis is published as a JSON [`Twitter_Accounts/UTE_University_Twitter_Accounts.json`](Twitter Accounts/UTE University Twitter Accounts.json). The JSON file identifies the official primary and affiliated secondary Twitter accounts associated with each institution along with selected attributes for each profile (i.e., screen name, user name, URL, protected, follower count, following count). The Twitter data is used to calculate University Twitter Engagement (UTE) which is the friend and extended follower network of primary and affiliated secondary Twitter accounts referenced on a university's home page. Please note this file contains over 1 million Twitter profiles, and is best opened with a utility such as <a href="http://jsoneditoronline.org/" target="_blank">JSON Editor Online</a>. 
 
 # Results
 
 ## ODU Ranking Lists
 
-The [`ODU Ranking Lists`](ODU Ranking Lists) folder contains the complete university listings ranked by our specific criteria of ARR, EEE, and UTE>
+The [`ODU_Ranking_Lists`](ODU_Ranking_Lists) folder contains the complete university listings ranked by our specific criteria of ARR, EEE, and UTE>
 
 # Feedback / Questions?
 
