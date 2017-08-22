@@ -1,6 +1,6 @@
 # University-Twitter-Engagement
 
-This repository contains source data related to the technical report, "[University Twitter Engagement: Using Twitter Followers to Rank Universities](https://arxiv.org)," published August 19, 2017. The goal of this study is to determine how the number of Twitter followers relates to academic prestige. We also consider additional web-based attributes that correlate with rankings but do not require expensive data collection. Please read the tech report which provides important context and details before proceeding.
+This repository contains source data related to the technical report, "[University Twitter Engagement: Using Twitter Followers to Rank Universities](http://arxiv.org/abs/1708.05790)," published August 19, 2017. The goal of this study is to determine how the number of Twitter followers relates to academic prestige. We also consider additional web-based attributes that correlate with rankings but do not require expensive data collection. Please read the tech report which provides important context and details before proceeding.
 
 ## Table Of Contents
 
