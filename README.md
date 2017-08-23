@@ -47,7 +47,7 @@ In rank-to-rank comparisons we observed a significant, positive rank correlation
 
 ## ODU Ranking Lists
 
-The [`ODU_Ranking_Lists`](ODU_Ranking_Lists) folder contains the complete university listings ranked by our specific criteria of [`adjusted reputation rank (ARR)`](ODU_Ranking_Lists/Ranked_by_ARR.csv), [`ependitures, enrollment and endowment (EEE)`](ODU_Ranking_Lists/Ranked_by_EEE.csv), and [`university Twitter engagement (UTE)`](ODU_Ranking_Lists/Ranked_by_UTE.csv). Please refer to the tech report for more information regarding the methodology used to construct each ranking list.
+The [`ODU_Ranking_Lists`](ODU_Ranking_Lists) folder contains the complete university listings ranked by our specific criteria of [`adjusted reputation rank (ARR)`](ODU_Ranking_Lists/Ranked_by_ARR.csv), [`expenditures, enrollment and endowment (EEE)`](ODU_Ranking_Lists/Ranked_by_EEE.csv), and [`university Twitter engagement (UTE)`](ODU_Ranking_Lists/Ranked_by_UTE.csv). Please refer to the tech report for more information regarding the methodology used to construct each ranking list.
 
 # Feedback / Questions?
 
