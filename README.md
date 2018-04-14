@@ -5,6 +5,7 @@ This repository contains source data related to the technical report, "[Universi
 ## Table Of Contents
 
 - [Data](#data)
+    - [Athletic_Expenditures](#athletic-expenditures)
     - [Expert Ranking Lists](#expert-ranking-lists)
     - [University Endowments](#university-endowments)
     - [IPEDS](#ipeds)
@@ -19,6 +20,9 @@ This repository contains source data related to the technical report, "[Universi
 ## Raw data
 
 The raw, input data for our core analyses was obtained from the following sources:
+
+### Athletic Expenditures
+Athletic expenditures for men's and women's sports teams was obtainted from the U.S. Department of Education reports related to <a href="https://ope.ed.gov/athletics/#/datafile/list" target="_blank">Equity in Athletics Data Analysis</a>. This database consists of athletics data that are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), via a Web-based data collection, by all co-educational postsecondary institutions that receive Title IV funding (i.e., those that participate in federal student aid programs) and that have an intercollegiate athletics program. The list contents as they appeared during our data collection is shown in the [`Athletic_Expenditures`](Athletic_Expenditures) folder.
 
 ### Expert Ranking Lists
 
